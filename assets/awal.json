@@ -1,0 +1,1230 @@
+{
+  "people": [
+    {
+      "id": "root",
+      "name": "Haslin",
+      "gender": "other",
+      "birthDate": "",
+      "x": 2099,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": ""
+    },
+    {
+      "id": "person_1",
+      "name": "La Ngkabola",
+      "gender": "male",
+      "x": -450,
+      "y": -160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=La%20Ngkabola&background=random"
+    },
+    {
+      "id": "person_2",
+      "name": "Wa Ela",
+      "gender": "female",
+      "x": -320,
+      "y": -160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Wa%20Ela&background=random"
+    },
+    {
+      "id": "person_3",
+      "name": "Zamin",
+      "gender": "male",
+      "x": -1131,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Zamin&background=random"
+    },
+    {
+      "id": "person_4",
+      "name": "Zamhari",
+      "gender": "male",
+      "x": -746,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Zamhari&background=random"
+    },
+    {
+      "id": "person_5",
+      "name": "Dualisi",
+      "gender": "male",
+      "x": -381,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Dualisi&background=random"
+    },
+    {
+      "id": "person_6",
+      "name": "Abuduh",
+      "gender": "male",
+      "x": -16,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Abuduh&background=random"
+    },
+    {
+      "id": "person_7",
+      "name": "Karim",
+      "gender": "male",
+      "x": 574,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Karim&background=random"
+    },
+    {
+      "id": "person_8",
+      "name": "Nahar Jati",
+      "gender": "male",
+      "x": 1134,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Nahar%20Jati&background=random"
+    },
+    {
+      "id": "person_9",
+      "name": "Rahmatia",
+      "gender": "female",
+      "x": 1734,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Rahmatia&background=random",
+      "customRightGap": 0
+    },
+    {
+      "id": "person_10",
+      "name": "Fasia",
+      "gender": "female",
+      "x": -1261,
+      "y": 0,
+      "birthDate": "",
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Fasia&background=random"
+    },
+    {
+      "id": "person_11",
+      "name": "Muh. Mahfuz",
+      "gender": "male",
+      "x": -1900,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Muh.%20Mahfuz&background=random"
+    },
+    {
+      "id": "person_12",
+      "name": "Muh. Rahmat H.",
+      "gender": "male",
+      "x": -1750,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Muh.%20Rahmat%20H.&background=random"
+    },
+    {
+      "id": "person_13",
+      "name": "Fikria",
+      "gender": "female",
+      "x": -1600,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Fikria&background=random"
+    },
+    {
+      "id": "person_14",
+      "name": "Rosmina",
+      "gender": "female",
+      "x": -1450,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Rosmina&background=random"
+    },
+    {
+      "id": "person_15",
+      "name": "Sarmi",
+      "gender": "female",
+      "x": -1300,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Sarmi&background=random"
+    },
+    {
+      "id": "person_16",
+      "name": "Putri",
+      "gender": "female",
+      "x": -2030,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Putri&background=random"
+    },
+    {
+      "id": "person_17",
+      "name": "Intan",
+      "gender": "female",
+      "x": -1970.4682539682537,
+      "y": 320,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Intan&background=random",
+      "customRightGap": 500
+    },
+    {
+      "id": "person_18",
+      "name": "Marsida",
+      "gender": "female",
+      "x": -616,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Marsida&background=random"
+    },
+    {
+      "id": "person_19",
+      "name": "Muh. Azhar",
+      "gender": "male",
+      "x": -1050,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Muh.%20Azhar&background=random"
+    },
+    {
+      "id": "person_20",
+      "name": "Afni Zahrani",
+      "gender": "female",
+      "x": -900,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Afni%20Zahrani&background=random"
+    },
+    {
+      "id": "person_21",
+      "name": "Felin",
+      "gender": "female",
+      "x": -750,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Felin&background=random"
+    },
+    {
+      "id": "person_22",
+      "name": "Munaya",
+      "gender": "female",
+      "x": -251,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Munaya&background=random"
+    },
+    {
+      "id": "person_23",
+      "name": "Imam Rahmawan",
+      "gender": "male",
+      "x": -370,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Imam%20Rahmawan&background=random"
+    },
+    {
+      "id": "person_24",
+      "name": "Amirul",
+      "gender": "male",
+      "x": -220,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Amirul&background=random"
+    },
+    {
+      "id": "person_25",
+      "name": "Sri Suarni",
+      "gender": "female",
+      "x": -70,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Sri%20Suarni&background=random"
+    },
+    {
+      "id": "new_person_1",
+      "name": "Juniati",
+      "gender": "female",
+      "x": 114,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Juniati&background=random",
+      "customLeftGap": 0,
+      "customRightGap": 360
+    },
+    {
+      "id": "new_person_2",
+      "name": "Evan Purnama",
+      "gender": "male",
+      "x": 180,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Evan%20Purnama&background=random"
+    },
+    {
+      "id": "new_person_3",
+      "name": "Malvino",
+      "gender": "male",
+      "x": 330,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Malvino&background=random"
+    },
+    {
+      "id": "new_person_4",
+      "name": "Aidil Ramadhan",
+      "gender": "male",
+      "x": 480,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Aidil%20Ramadhan&background=random"
+    },
+    {
+      "id": "new_person_5",
+      "name": "Wd. Samsiar",
+      "gender": "female",
+      "x": 704,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Wd.%20Samsiar&background=random",
+      "customRightGap": 330
+    },
+    {
+      "id": "new_person_6",
+      "name": "Abd. Rahman",
+      "gender": "male",
+      "x": 730,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Abd.%20Rahman&background=random"
+    },
+    {
+      "id": "new_person_7",
+      "name": "Amrulah Yusuf",
+      "gender": "male",
+      "x": 880,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Amrulah%20Yusuf&background=random"
+    },
+    {
+      "id": "new_person_8",
+      "name": "Amri Muarif",
+      "gender": "male",
+      "x": 1030,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Amri%20Muarif&background=random"
+    },
+    {
+      "id": "new_person_9",
+      "name": "Usw. Chasanah",
+      "gender": "female",
+      "x": 1264,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Usw.%20Chasanah&background=random",
+      "customRightGap": 370
+    },
+    {
+      "id": "new_person_10",
+      "name": "Nachwa Eka Tsabitah",
+      "gender": "female",
+      "x": 1280,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Nachwa%20Eka%20Tsabitah&background=random"
+    },
+    {
+      "id": "new_person_11",
+      "name": "Khairah Dwi Tsamarah",
+      "gender": "female",
+      "x": 1430,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Khairah%20Dwi%20Tsamarah&background=random"
+    },
+    {
+      "id": "new_person_12",
+      "name": "Trisya Humairah R.",
+      "gender": "female",
+      "x": 1580,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Trisya%20Humairah%20R.&background=random"
+    },
+    {
+      "id": "new_person_13",
+      "name": "Sumancio",
+      "gender": "male",
+      "x": 1864,
+      "y": 0,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Sumancio&background=random"
+    },
+    {
+      "id": "new_person_14",
+      "name": "Farel Xavier",
+      "gender": "male",
+      "x": 1830,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Farel%20Xavier&background=random"
+    },
+    {
+      "id": "new_person_15",
+      "name": "Fadel Aprillio",
+      "gender": "male",
+      "x": 1980,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Fadel%20Aprillio&background=random"
+    },
+    {
+      "id": "new_person_16",
+      "name": "Airin",
+      "gender": "female",
+      "x": 2130,
+      "y": 160,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Airin&background=random"
+    },
+    {
+      "id": "new_person_17",
+      "name": "Feby Nanda M.",
+      "gender": "female",
+      "x": -500,
+      "y": 160,
+      "birthDate": "",
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Feby%20Nanda%20M.&background=random"
+    },
+    {
+      "id": "new_person_18",
+      "name": "Keisya",
+      "gender": "male",
+      "x": -1370.4682539682537,
+      "y": 320,
+      "birthDate": "",
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Keisya&background=random",
+      "customRightGap": 500,
+      "customLeftGap": 0
+    },
+    {
+      "id": "new_person_dirimu",
+      "name": "La Dirimu",
+      "gender": "male",
+      "x": 0,
+      "y": -320,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=La%20Dirimu&background=random"
+    },
+    {
+      "id": "new_person_owe",
+      "name": "Wa Owe",
+      "gender": "female",
+      "x": 130,
+      "y": -320,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Wa%20Owe&background=random"
+    },
+    {
+      "id": "new_person_palidhu",
+      "name": "Palidhu",
+      "gender": "male",
+      "x": -100,
+      "y": -480,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Palidhu&background=random"
+    },
+    {
+      "id": "new_person_waera",
+      "name": "Wa Era",
+      "gender": "female",
+      "x": 30,
+      "y": -480,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Wa%20Era&background=random"
+    },
+    {
+      "id": "new_person_lamawo",
+      "name": "La Mawo",
+      "gender": "male",
+      "x": -200,
+      "y": -640,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=La%20Mawo&background=random"
+    },
+    {
+      "id": "new_person_spouse_lamawo",
+      "name": "Unnamed Spouse of La Mawo",
+      "gender": "female",
+      "x": -70,
+      "y": -640,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Unnamed%20Spouse%20of%20La%20Mawo&background=random"
+    },
+    {
+      "id": "new_person_laodetadhi",
+      "name": "La Ode Tadhi",
+      "gender": "male",
+      "x": -300,
+      "y": -800,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=La%20Ode%20Tadhi&background=random"
+    },
+    {
+      "id": "new_person_wadilo",
+      "name": "Wa Dilo",
+      "gender": "female",
+      "x": -170,
+      "y": -800,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Wa%20Dilo&background=random"
+    },
+    {
+      "id": "new_person_laodetduha",
+      "name": "La Ode Tduha",
+      "gender": "male",
+      "x": -400,
+      "y": -960,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=La%20Ode%20Tduha&background=random"
+    },
+    {
+      "id": "new_person_waodedhumba",
+      "name": "Wa Ode Dhumba",
+      "gender": "female",
+      "x": -270,
+      "y": -960,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Wa%20Ode%20Dhumba&background=random"
+    },
+    {
+      "id": "new_person_muhisa",
+      "name": "Muh. Isa",
+      "gender": "male",
+      "x": -300,
+      "y": -1120,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Muh.%20Isa&background=random"
+    },
+    {
+      "id": "new_person_waibo",
+      "name": "Wa Ibo",
+      "gender": "female",
+      "x": -170,
+      "y": -1120,
+      "birthPlace": "",
+      "deathDate": "",
+      "deathPlace": "",
+      "notes": "",
+      "photoUrl": "https://ui-avatars.com/api/?name=Wa%20Ibo&background=random"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_1",
+      "sourceId": "person_11",
+      "targetId": "person_16",
+      "type": "spouse"
+    },
+    {
+      "id": "rel_2",
+      "sourceId": "person_11",
+      "targetId": "person_17",
+      "type": "parent"
+    },
+    {
+      "id": "rel_3",
+      "sourceId": "person_16",
+      "targetId": "person_17",
+      "type": "parent"
+    },
+    {
+      "id": "rel_4",
+      "sourceId": "person_7",
+      "targetId": "new_person_7",
+      "type": "parent"
+    },
+    {
+      "id": "rel_5",
+      "sourceId": "new_person_5",
+      "targetId": "new_person_7",
+      "type": "parent"
+    },
+    {
+      "id": "rel_6",
+      "sourceId": "person_7",
+      "targetId": "new_person_8",
+      "type": "parent"
+    },
+    {
+      "id": "rel_7",
+      "sourceId": "new_person_5",
+      "targetId": "new_person_8",
+      "type": "parent"
+    },
+    {
+      "id": "rel_8",
+      "sourceId": "person_1",
+      "targetId": "person_5",
+      "type": "parent"
+    },
+    {
+      "id": "rel_9",
+      "sourceId": "person_2",
+      "targetId": "person_5",
+      "type": "parent"
+    },
+    {
+      "id": "rel_10",
+      "sourceId": "person_1",
+      "targetId": "person_6",
+      "type": "parent"
+    },
+    {
+      "id": "rel_11",
+      "sourceId": "person_2",
+      "targetId": "person_6",
+      "type": "parent"
+    },
+    {
+      "id": "rel_12",
+      "sourceId": "person_1",
+      "targetId": "person_7",
+      "type": "parent"
+    },
+    {
+      "id": "rel_13",
+      "sourceId": "person_2",
+      "targetId": "person_7",
+      "type": "parent"
+    },
+    {
+      "id": "rel_14",
+      "sourceId": "person_1",
+      "targetId": "person_8",
+      "type": "parent"
+    },
+    {
+      "id": "rel_15",
+      "sourceId": "person_2",
+      "targetId": "person_8",
+      "type": "parent"
+    },
+    {
+      "id": "rel_16",
+      "sourceId": "person_1",
+      "targetId": "person_9",
+      "type": "parent"
+    },
+    {
+      "id": "rel_17",
+      "sourceId": "person_2",
+      "targetId": "person_9",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_2",
+      "sourceId": "person_23",
+      "targetId": "new_person_18",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_3",
+      "sourceId": "new_person_17",
+      "targetId": "new_person_18",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_4",
+      "sourceId": "person_9",
+      "targetId": "new_person_15",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_5",
+      "sourceId": "new_person_13",
+      "targetId": "new_person_15",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_6",
+      "sourceId": "person_9",
+      "targetId": "new_person_16",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_7",
+      "sourceId": "new_person_13",
+      "targetId": "new_person_16",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_8",
+      "sourceId": "person_3",
+      "targetId": "person_14",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_9",
+      "sourceId": "person_10",
+      "targetId": "person_14",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_10",
+      "sourceId": "person_3",
+      "targetId": "person_15",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_11",
+      "sourceId": "person_10",
+      "targetId": "person_15",
+      "type": "parent"
+    },
+    {
+      "id": "cvhpklhpl",
+      "sourceId": "person_1",
+      "targetId": "person_2",
+      "type": "spouse"
+    },
+    {
+      "id": "krzurye8k",
+      "sourceId": "person_3",
+      "targetId": "person_10",
+      "type": "spouse"
+    },
+    {
+      "id": "zzae0aaik",
+      "sourceId": "person_1",
+      "targetId": "root",
+      "type": "parent"
+    },
+    {
+      "id": "7f2osp7gx",
+      "sourceId": "person_2",
+      "targetId": "root",
+      "type": "parent"
+    },
+    {
+      "id": "9dxbgo2qv",
+      "sourceId": "person_1",
+      "targetId": "person_3",
+      "type": "parent"
+    },
+    {
+      "id": "x2nx5firs",
+      "sourceId": "person_2",
+      "targetId": "person_3",
+      "type": "parent"
+    },
+    {
+      "id": "7hp8co1dg",
+      "sourceId": "person_1",
+      "targetId": "person_4",
+      "type": "parent"
+    },
+    {
+      "id": "tndkmi7ye",
+      "sourceId": "person_2",
+      "targetId": "person_4",
+      "type": "parent"
+    },
+    {
+      "id": "1nx6fk1d0",
+      "sourceId": "person_4",
+      "targetId": "person_19",
+      "type": "parent"
+    },
+    {
+      "id": "xxh4tkwn9",
+      "sourceId": "person_18",
+      "targetId": "person_19",
+      "type": "parent"
+    },
+    {
+      "id": "fejyxco79",
+      "sourceId": "person_4",
+      "targetId": "person_20",
+      "type": "parent"
+    },
+    {
+      "id": "pz61sg28s",
+      "sourceId": "person_18",
+      "targetId": "person_20",
+      "type": "parent"
+    },
+    {
+      "id": "akh0o60h7",
+      "sourceId": "person_4",
+      "targetId": "person_21",
+      "type": "parent"
+    },
+    {
+      "id": "vwy1gk4v1",
+      "sourceId": "person_18",
+      "targetId": "person_21",
+      "type": "parent"
+    },
+    {
+      "id": "n3vwsxnvp",
+      "sourceId": "person_4",
+      "targetId": "person_18",
+      "type": "spouse"
+    },
+    {
+      "id": "new_rel_1",
+      "sourceId": "new_person_dirimu",
+      "targetId": "new_person_owe",
+      "type": "spouse"
+    },
+    {
+      "id": "new_rel_2",
+      "sourceId": "new_person_palidhu",
+      "targetId": "new_person_waera",
+      "type": "spouse"
+    },
+    {
+      "id": "new_rel_3",
+      "sourceId": "new_person_palidhu",
+      "targetId": "new_person_dirimu",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_4",
+      "sourceId": "new_person_waera",
+      "targetId": "new_person_dirimu",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_5",
+      "sourceId": "new_person_lamawo",
+      "targetId": "new_person_spouse_lamawo",
+      "type": "spouse"
+    },
+    {
+      "id": "new_rel_6",
+      "sourceId": "new_person_lamawo",
+      "targetId": "new_person_palidhu",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_7",
+      "sourceId": "new_person_spouse_lamawo",
+      "targetId": "new_person_palidhu",
+      "type": "parent"
+    },
+    {
+      "id": "new_relationship_1",
+      "sourceId": "person_8",
+      "targetId": "new_person_9",
+      "type": "spouse"
+    },
+    {
+      "id": "new_relationship_2",
+      "sourceId": "person_8",
+      "targetId": "new_person_10",
+      "type": "parent"
+    },
+    {
+      "id": "new_relationship_3",
+      "sourceId": "person_8",
+      "targetId": "new_person_11",
+      "type": "parent"
+    },
+    {
+      "id": "new_relationship_4",
+      "sourceId": "person_8",
+      "targetId": "new_person_12",
+      "type": "parent"
+    },
+    {
+      "id": "new_relationship_5",
+      "sourceId": "new_person_9",
+      "targetId": "new_person_10",
+      "type": "parent"
+    },
+    {
+      "id": "new_relationship_6",
+      "sourceId": "new_person_9",
+      "targetId": "new_person_11",
+      "type": "parent"
+    },
+    {
+      "id": "new_relationship_7",
+      "sourceId": "new_person_9",
+      "targetId": "new_person_12",
+      "type": "parent"
+    },
+    {
+      "id": "relationship_1",
+      "sourceId": "person_23",
+      "targetId": "new_person_17",
+      "type": "spouse"
+    },
+    {
+      "id": "cvy1tpvsb",
+      "sourceId": "person_5",
+      "targetId": "person_22",
+      "type": "spouse"
+    },
+    {
+      "id": "3pgml9978",
+      "sourceId": "person_5",
+      "targetId": "person_23",
+      "type": "parent"
+    },
+    {
+      "id": "9p2qf693u",
+      "sourceId": "person_22",
+      "targetId": "person_23",
+      "type": "parent"
+    },
+    {
+      "id": "moj75e5ni",
+      "sourceId": "person_5",
+      "targetId": "person_24",
+      "type": "parent"
+    },
+    {
+      "id": "vw9euofpp",
+      "sourceId": "person_22",
+      "targetId": "person_24",
+      "type": "parent"
+    },
+    {
+      "id": "cjavav1y7",
+      "sourceId": "person_5",
+      "targetId": "person_25",
+      "type": "parent"
+    },
+    {
+      "id": "mwok2wvdf",
+      "sourceId": "person_22",
+      "targetId": "person_25",
+      "type": "parent"
+    },
+    {
+      "id": "4d8zfnmsz",
+      "sourceId": "person_3",
+      "targetId": "person_11",
+      "type": "parent"
+    },
+    {
+      "id": "n8uhv1q6b",
+      "sourceId": "person_3",
+      "targetId": "person_12",
+      "type": "parent"
+    },
+    {
+      "id": "xi7ymsuqz",
+      "sourceId": "person_3",
+      "targetId": "person_13",
+      "type": "parent"
+    },
+    {
+      "id": "bemrphgti",
+      "sourceId": "person_10",
+      "targetId": "person_13",
+      "type": "parent"
+    },
+    {
+      "id": "e27vpb5h4",
+      "sourceId": "person_10",
+      "targetId": "person_12",
+      "type": "parent"
+    },
+    {
+      "id": "bh79o00jl",
+      "sourceId": "person_10",
+      "targetId": "person_11",
+      "type": "parent"
+    },
+    {
+      "id": "gfpvoelo8",
+      "sourceId": "person_7",
+      "targetId": "new_person_5",
+      "type": "spouse"
+    },
+    {
+      "id": "1kcoxspew",
+      "sourceId": "person_9",
+      "targetId": "new_person_13",
+      "type": "spouse"
+    },
+    {
+      "id": "27jowj0gy",
+      "sourceId": "new_person_5",
+      "targetId": "new_person_6",
+      "type": "parent"
+    },
+    {
+      "id": "o8qjky81w",
+      "sourceId": "person_7",
+      "targetId": "new_person_6",
+      "type": "parent"
+    },
+    {
+      "id": "6ir5yezk4",
+      "sourceId": "person_9",
+      "targetId": "new_person_14",
+      "type": "parent"
+    },
+    {
+      "id": "gwl63yn8f",
+      "sourceId": "new_person_13",
+      "targetId": "new_person_14",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_8",
+      "sourceId": "new_person_laodetadhi",
+      "targetId": "new_person_wadilo",
+      "type": "spouse"
+    },
+    {
+      "id": "new_rel_9",
+      "sourceId": "new_person_laodetadhi",
+      "targetId": "new_person_lamawo",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_10",
+      "sourceId": "new_person_wadilo",
+      "targetId": "new_person_lamawo",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_11",
+      "sourceId": "new_person_laodetduha",
+      "targetId": "new_person_waodedhumba",
+      "type": "spouse"
+    },
+    {
+      "id": "new_rel_12",
+      "sourceId": "new_person_laodetduha",
+      "targetId": "new_person_laodetadhi",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_13",
+      "sourceId": "new_person_waodedhumba",
+      "targetId": "new_person_laodetadhi",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_14",
+      "sourceId": "new_person_muhisa",
+      "targetId": "new_person_waibo",
+      "type": "spouse"
+    },
+    {
+      "id": "new_rel_15",
+      "sourceId": "new_person_muhisa",
+      "targetId": "new_person_waodedhumba",
+      "type": "parent"
+    },
+    {
+      "id": "new_rel_16",
+      "sourceId": "new_person_waibo",
+      "targetId": "new_person_waodedhumba",
+      "type": "parent"
+    },
+    {
+      "id": "e00lbwfu7",
+      "sourceId": "new_person_dirimu",
+      "targetId": "person_1",
+      "type": "parent"
+    },
+    {
+      "id": "597x0x083",
+      "sourceId": "person_6",
+      "targetId": "new_person_1",
+      "type": "spouse",
+      "relationshipStatus": "married"
+    },
+    {
+      "id": "vmgolqwwg",
+      "sourceId": "person_6",
+      "targetId": "new_person_2",
+      "type": "parent"
+    },
+    {
+      "id": "4tnhew284",
+      "sourceId": "person_6",
+      "targetId": "new_person_3",
+      "type": "parent"
+    },
+    {
+      "id": "os1878mzs",
+      "sourceId": "person_6",
+      "targetId": "new_person_4",
+      "type": "parent"
+    }
+  ]
+}

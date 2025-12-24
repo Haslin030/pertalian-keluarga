@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pertalian Keluarga By Haslin Has</title>
+    <title>Quick Family Tree Web</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
       body {
@@ -20,6 +21,103 @@
         -ms-overflow-style: none;
         scrollbar-width: none;
       }
+
+      /* Connection Line Animation */
+      @keyframes connectionFlash {
+        0% {
+          stroke: #f97316; /* Orange-500 */
+          stroke-width: 6px;
+          opacity: 0;
+        }
+        40% {
+          stroke: #f97316;
+          stroke-width: 4px;
+          opacity: 1;
+        }
+        100% {
+          /* Reverts to inline SVG attributes */
+          opacity: 1;
+        }
+      }
+
+      .animate-connection {
+        animation: connectionFlash 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
+      }
+
+      /* RAINBOW GLOW ANIMATION */
+      @keyframes rainbow-move {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+
+      .rainbow-border {
+        position: relative;
+        z-index: 1;
+      }
+
+      /* Layer 1: The Blur (Glow) */
+      .rainbow-border::before {
+        content: "";
+        position: absolute;
+        inset: -4px;
+        z-index: -1;
+        background: linear-gradient(
+          60deg,
+          #ff0000,
+          #ff7300,
+          #fffb00,
+          #48ff00,
+          #00ffd5,
+          #002bff,
+          #7a00ff,
+          #ff00c8,
+          #ff0000
+        );
+        background-size: 300% 300%;
+        animation: rainbow-move 4s ease infinite;
+        border-radius: inherit; /* Mengikuti radius elemen induk */
+        filter: blur(8px);
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+      }
+
+      /* Layer 2: The Sharp Border Line */
+      .rainbow-border::after {
+        content: "";
+        position: absolute;
+        inset: -2px;
+        z-index: -1;
+        background: linear-gradient(
+          60deg,
+          #ff0000,
+          #ff7300,
+          #fffb00,
+          #48ff00,
+          #00ffd5,
+          #002bff,
+          #7a00ff,
+          #ff00c8,
+          #ff0000
+        );
+        background-size: 300% 300%;
+        animation: rainbow-move 4s ease infinite;
+        border-radius: inherit;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+      }
+
+      /* Trigger state */
+      .rainbow-border.active::before,
+      .rainbow-border.active::after {
+        opacity: 1;
+      }
     </style>
 
 <link rel="stylesheet" href="/index.css">
@@ -35,7 +133,7 @@
   }
 }
 </script>
-  <script type="module" crossorigin src="/pertalian-keluarga/assets/index-DuIcIizc.js"></script>
+  <script type="module" crossorigin src="/pertalian-keluarga/assets/index-CsojwTEB.js"></script>
 </head>
   <body>
     <div id="root"></div>

@@ -17,7 +17,7 @@
       "id": "person_1",
       "name": "La Ngkabola",
       "gender": "male",
-      "x": 3397.5,
+      "x": 3302.5,
       "y": -160,
       "birthPlace": "",
       "deathDate": "",
@@ -30,7 +30,7 @@
       "id": "person_3",
       "name": "Zamin",
       "gender": "male",
-      "x": -2218.5,
+      "x": -33.5,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -43,7 +43,7 @@
       "id": "person_4",
       "name": "Zamhari",
       "gender": "male",
-      "x": -1165.5,
+      "x": 592,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -55,7 +55,7 @@
       "id": "person_5",
       "name": "Dualisi",
       "gender": "male",
-      "x": -346.5,
+      "x": 1078.5,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -67,7 +67,7 @@
       "id": "person_6",
       "name": "Abuduh",
       "gender": "male",
-      "x": 472.5,
+      "x": 1565,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -79,7 +79,7 @@
       "id": "person_7",
       "name": "Karim",
       "gender": "male",
-      "x": 1174.5,
+      "x": 1982,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -92,7 +92,7 @@
       "id": "person_8",
       "name": "Nahar Jati",
       "gender": "male",
-      "x": 1876.5,
+      "x": 2399,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -104,7 +104,7 @@
       "id": "person_9",
       "name": "Rahmatia",
       "gender": "female",
-      "x": 2578.5,
+      "x": 2816,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -117,7 +117,7 @@
       "id": "person_10",
       "name": "Fasia",
       "gender": "female",
-      "x": -1984.5,
+      "x": 105.5,
       "y": 0,
       "birthDate": "",
       "birthPlace": "",
@@ -131,7 +131,7 @@
       "id": "person_11",
       "name": "Muh. Mahfuz",
       "gender": "male",
-      "x": -2686.5,
+      "x": -311.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -143,7 +143,7 @@
       "id": "person_12",
       "name": "Muh. Rahmat H.",
       "gender": "male",
-      "x": -1750.5,
+      "x": 244.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -155,7 +155,7 @@
       "id": "person_13",
       "name": "Fikria",
       "gender": "female",
-      "x": -1516.5,
+      "x": 383.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -167,7 +167,7 @@
       "id": "person_14",
       "name": "Rosmina",
       "gender": "female",
-      "x": -2218.5,
+      "x": -33.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -179,7 +179,7 @@
       "id": "person_15",
       "name": "Sarmi",
       "gender": "female",
-      "x": -1984.5,
+      "x": 105.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -192,7 +192,7 @@
       "id": "person_16",
       "name": "Putri",
       "gender": "female",
-      "x": -2452.5,
+      "x": -172.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -204,7 +204,7 @@
       "id": "person_17",
       "name": "Intan",
       "gender": "female",
-      "x": -2569.5,
+      "x": -242,
       "y": 320,
       "birthPlace": "",
       "deathDate": "",
@@ -217,7 +217,7 @@
       "id": "person_18",
       "name": "Marsida",
       "gender": "female",
-      "x": -931.5,
+      "x": 731,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -230,7 +230,7 @@
       "id": "person_19",
       "name": "Muh. Azhar",
       "gender": "male",
-      "x": -1282.5,
+      "x": 522.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -242,7 +242,7 @@
       "id": "person_20",
       "name": "Afni Zahrani",
       "gender": "female",
-      "x": -1048.5,
+      "x": 661.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -254,7 +254,7 @@
       "id": "person_21",
       "name": "Felin",
       "gender": "female",
-      "x": -814.5,
+      "x": 800.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -267,7 +267,7 @@
       "id": "person_22",
       "name": "Munaya",
       "gender": "female",
-      "x": -112.5,
+      "x": 1217.5,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -280,7 +280,7 @@
       "id": "person_23",
       "name": "Imam Rahmawan",
       "gender": "male",
-      "x": -580.5,
+      "x": 939.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -292,7 +292,7 @@
       "id": "person_24",
       "name": "Amirul",
       "gender": "male",
-      "x": -112.5,
+      "x": 1217.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -304,7 +304,7 @@
       "id": "person_25",
       "name": "Sri Suarni",
       "gender": "female",
-      "x": 121.5,
+      "x": 1356.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -317,7 +317,7 @@
       "id": "new_person_1",
       "name": "Juniati",
       "gender": "female",
-      "x": 706.5,
+      "x": 1704,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -331,7 +331,7 @@
       "id": "new_person_2",
       "name": "Evan Purnama",
       "gender": "male",
-      "x": 355.5,
+      "x": 1495.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -343,7 +343,7 @@
       "id": "new_person_3",
       "name": "Malvino",
       "gender": "male",
-      "x": 589.5,
+      "x": 1634.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -355,7 +355,7 @@
       "id": "new_person_4",
       "name": "Aidil Ramadhan",
       "gender": "male",
-      "x": 823.5,
+      "x": 1773.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -368,7 +368,7 @@
       "id": "new_person_5",
       "name": "Wd. Samsiar",
       "gender": "female",
-      "x": 1408.5,
+      "x": 2121,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -381,7 +381,7 @@
       "id": "new_person_6",
       "name": "Abd. Rahman",
       "gender": "male",
-      "x": 1525.5,
+      "x": 2190.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -393,7 +393,7 @@
       "id": "new_person_7",
       "name": "Amrulah Yusuf",
       "gender": "male",
-      "x": 1057.5,
+      "x": 1912.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -405,7 +405,7 @@
       "id": "new_person_8",
       "name": "Amri Muarif",
       "gender": "male",
-      "x": 1291.5,
+      "x": 2051.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -418,7 +418,7 @@
       "id": "new_person_9",
       "name": "Usw. Chasanah",
       "gender": "female",
-      "x": 2110.5,
+      "x": 2538,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -431,7 +431,7 @@
       "id": "new_person_10",
       "name": "Nachwa Eka Tsabitah",
       "gender": "female",
-      "x": 1759.5,
+      "x": 2329.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -443,7 +443,7 @@
       "id": "new_person_11",
       "name": "Khairah Dwi Tsamarah",
       "gender": "female",
-      "x": 1993.5,
+      "x": 2468.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -455,7 +455,7 @@
       "id": "new_person_12",
       "name": "Trisya Humairah R.",
       "gender": "female",
-      "x": 2227.5,
+      "x": 2607.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -468,7 +468,7 @@
       "id": "new_person_13",
       "name": "Sumancio",
       "gender": "male",
-      "x": 2812.5,
+      "x": 2955,
       "y": 0,
       "birthPlace": "",
       "deathDate": "",
@@ -480,7 +480,7 @@
       "id": "new_person_14",
       "name": "Farel Xavier",
       "gender": "male",
-      "x": 2461.5,
+      "x": 2746.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -492,7 +492,7 @@
       "id": "new_person_15",
       "name": "Fadel Aprillio",
       "gender": "male",
-      "x": 2695.5,
+      "x": 2885.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -504,7 +504,7 @@
       "id": "new_person_16",
       "name": "Airin",
       "gender": "female",
-      "x": 2929.5,
+      "x": 3024.5,
       "y": 160,
       "birthPlace": "",
       "deathDate": "",
@@ -516,7 +516,7 @@
       "id": "new_person_17",
       "name": "Feby Nanda M.",
       "gender": "female",
-      "x": -346.5,
+      "x": 1078.5,
       "y": 160,
       "birthDate": "",
       "birthPlace": "",
@@ -529,7 +529,7 @@
       "id": "new_person_18",
       "name": "Keisya",
       "gender": "male",
-      "x": -463.5,
+      "x": 1009,
       "y": 320,
       "birthDate": "",
       "birthPlace": "",
@@ -544,7 +544,7 @@
       "id": "new_person_dirimu",
       "name": "La Dirimu",
       "gender": "male",
-      "x": 25159.5,
+      "x": 16229.5,
       "y": -320,
       "birthPlace": "",
       "deathDate": "",
@@ -558,7 +558,7 @@
       "id": "new_person_palidhu",
       "name": "Palidhu",
       "gender": "male",
-      "x": 18958.5,
+      "x": 12546,
       "y": -480,
       "birthPlace": "",
       "deathDate": "",
@@ -570,7 +570,7 @@
       "id": "new_person_waera",
       "name": "Wa Era",
       "gender": "female",
-      "x": 19192.5,
+      "x": 12685,
       "y": -480,
       "birthPlace": "",
       "deathDate": "",
@@ -582,8 +582,8 @@
       "id": "new_person_lamawo",
       "name": "La Mawo",
       "gender": "male",
-      "x": 21298.5,
-      "y": -640,
+      "x": 13934.30512616358,
+      "y": -641.6949203886572,
       "birthPlace": "",
       "deathDate": "",
       "deathPlace": "",
@@ -594,7 +594,7 @@
       "id": "new_person_spouse_lamawo",
       "name": "Istri La Mawo",
       "gender": "female",
-      "x": 21532.5,
+      "x": 14075,
       "y": -640,
       "birthPlace": "",
       "deathDate": "",
@@ -606,7 +606,7 @@
       "id": "new_person_laodetadhi",
       "name": "La Ode Tadhi",
       "gender": "male",
-      "x": 21298.5,
+      "x": 13936,
       "y": -800,
       "birthPlace": "",
       "deathDate": "",
@@ -618,7 +618,7 @@
       "id": "new_person_wadilo",
       "name": "Wa Dilo",
       "gender": "female",
-      "x": 21532.5,
+      "x": 14075,
       "y": -800,
       "birthPlace": "",
       "deathDate": "",
@@ -630,7 +630,7 @@
       "id": "new_person_laodetduha",
       "name": "La Ode Tduha",
       "gender": "male",
-      "x": 30424.5,
+      "x": 19357,
       "y": -960,
       "birthPlace": "",
       "deathDate": "",
@@ -642,7 +642,7 @@
       "id": "new_person_waodedhumba",
       "name": "Wa Ode Dhumba",
       "gender": "female",
-      "x": 30190.5,
+      "x": 19218,
       "y": -960,
       "birthPlace": "",
       "deathDate": "",
@@ -654,7 +654,7 @@
       "id": "new_person_muhisa",
       "name": "Muh. Isa",
       "gender": "male",
-      "x": 63535.5,
+      "x": 39024.38879394531,
       "y": -1120,
       "birthPlace": "",
       "deathDate": "",
@@ -666,7 +666,7 @@
       "id": "new_person_waibo",
       "name": "Wa Ibo",
       "gender": "female",
-      "x": 30307.5,
+      "x": 19287.5,
       "y": -1120,
       "birthPlace": "",
       "deathDate": "",
@@ -679,7 +679,7 @@
       "name": "Ayahx Muh. Isa",
       "gender": "male",
       "birthDate": "",
-      "x": 30892.5,
+      "x": 19635,
       "y": -1280
     },
     {
@@ -687,7 +687,7 @@
       "name": "Ibux Muh. Isa",
       "gender": "female",
       "birthDate": "",
-      "x": 31126.5,
+      "x": 19774,
       "y": -1280
     },
     {
@@ -695,7 +695,7 @@
       "name": "Bpkx Ld Falihi",
       "gender": "male",
       "birthDate": "",
-      "x": 64003.5,
+      "x": 39303.5,
       "y": -1120
     },
     {
@@ -703,7 +703,7 @@
       "name": "Bpkx Ld Manarfa",
       "gender": "male",
       "birthDate": "",
-      "x": 64471.5,
+      "x": 39581.5,
       "y": -1120
     },
     {
@@ -711,7 +711,7 @@
       "name": "Istri Ld Falihi",
       "gender": "female",
       "birthDate": "",
-      "x": 64237.5,
+      "x": 39442.5,
       "y": -1120
     },
     {
@@ -719,7 +719,7 @@
       "name": "Ld Hamidi",
       "gender": "male",
       "birthDate": "",
-      "x": 64003.5,
+      "x": 39303.5,
       "y": -960
     },
     {
@@ -727,7 +727,7 @@
       "name": "Ld Falihi",
       "gender": "male",
       "birthDate": "",
-      "x": 64237.5,
+      "x": 39442.5,
       "y": -960
     },
     {
@@ -735,7 +735,7 @@
       "name": "Ibux Ld Manarfa",
       "gender": "female",
       "birthDate": "",
-      "x": 64705.5,
+      "x": 39720.5,
       "y": -1120
     },
     {
@@ -743,7 +743,7 @@
       "name": "Ld Manarfa",
       "gender": "male",
       "birthDate": "",
-      "x": 64588.5,
+      "x": 39651,
       "y": -960
     },
     {
@@ -751,7 +751,7 @@
       "name": "Permaisuri",
       "gender": "female",
       "birthDate": "",
-      "x": 63769.5,
+      "x": 39164.5,
       "y": -1120
     },
     {
@@ -759,7 +759,7 @@
       "name": "Sapati Bungku",
       "gender": "male",
       "birthDate": "",
-      "x": 63769.5,
+      "x": 39164.5,
       "y": -960
     },
     {
@@ -767,7 +767,7 @@
       "name": "Wa Ode Ela",
       "gender": "female",
       "birthDate": "",
-      "x": 50197.5,
+      "x": 31102.5,
       "y": -800
     },
     {
@@ -775,7 +775,7 @@
       "name": "Wa Simu",
       "gender": "female",
       "birthDate": "",
-      "x": 58621.5,
+      "x": 36106.5,
       "y": -800
     },
     {
@@ -783,7 +783,7 @@
       "name": "Wa Kanto",
       "gender": "female",
       "birthDate": "",
-      "x": 62599.5,
+      "x": 38469.5,
       "y": -800
     },
     {
@@ -791,7 +791,7 @@
       "name": "Wa Kawudhu",
       "gender": "female",
       "birthDate": "",
-      "x": 62833.5,
+      "x": 38608.5,
       "y": -800
     },
     {
@@ -799,7 +799,7 @@
       "name": "La Kana",
       "gender": "male",
       "birthDate": "",
-      "x": 63067.5,
+      "x": 38747.5,
       "y": -800
     },
     {
@@ -807,7 +807,7 @@
       "name": "La Thauhu",
       "gender": "male",
       "birthDate": "",
-      "x": 63301.5,
+      "x": 38886.5,
       "y": -800
     },
     {
@@ -815,7 +815,7 @@
       "name": "La Sera",
       "gender": "male",
       "birthDate": "",
-      "x": 41071.5,
+      "x": 25681.5,
       "y": -480
     },
     {
@@ -823,7 +823,7 @@
       "name": "Wa Feru",
       "gender": "female",
       "birthDate": "",
-      "x": 43294.5,
+      "x": 27002,
       "y": -480
     },
     {
@@ -831,7 +831,7 @@
       "name": "La Taha",
       "gender": "male",
       "birthDate": "",
-      "x": 33232.5,
+      "x": 21025,
       "y": -320
     },
     {
@@ -839,15 +839,15 @@
       "name": "La Reko",
       "gender": "male",
       "birthDate": "",
-      "x": 40837.5,
-      "y": -320
+      "x": 25541.38885498047,
+      "y": -321.1111145019531
     },
     {
       "id": "ijmh7h8zt",
       "name": "La Mpola",
       "gender": "male",
       "birthDate": "",
-      "x": 8545.5,
+      "x": 6360.5,
       "y": -160,
       "customRightGap": 60
     },
@@ -856,7 +856,7 @@
       "name": "La Rahimu",
       "gender": "male",
       "birthDate": "",
-      "x": 7375.5,
+      "x": 5665.5,
       "y": -160
     },
     {
@@ -864,7 +864,7 @@
       "name": "La Nahi",
       "gender": "male",
       "birthDate": "",
-      "x": 8779.5,
+      "x": 6499.5,
       "y": -160
     },
     {
@@ -872,7 +872,7 @@
       "name": "Istri La Rahimu",
       "gender": "female",
       "birthDate": "",
-      "x": 6322.5,
+      "x": 5040,
       "y": -160
     },
     {
@@ -880,7 +880,7 @@
       "name": "Ratman",
       "gender": "male",
       "birthDate": "",
-      "x": 5503.5,
+      "x": 4553.5,
       "y": 0
     },
     {
@@ -888,7 +888,7 @@
       "name": "Ramayana",
       "gender": "female",
       "birthDate": "",
-      "x": 5737.5,
+      "x": 4692.5,
       "y": 0
     },
     {
@@ -896,7 +896,7 @@
       "name": "Ramli",
       "gender": "male",
       "birthDate": "",
-      "x": 6205.5,
+      "x": 4970.5,
       "y": 0
     },
     {
@@ -904,7 +904,7 @@
       "name": "Raman",
       "gender": "male",
       "birthDate": "",
-      "x": 6673.5,
+      "x": 5248.5,
       "y": 0
     },
     {
@@ -912,7 +912,7 @@
       "name": "Ratmi",
       "gender": "female",
       "birthDate": "",
-      "x": 6907.5,
+      "x": 5387.5,
       "y": 0
     },
     {
@@ -920,7 +920,7 @@
       "name": "Suami Ratmi",
       "gender": "male",
       "birthDate": "",
-      "x": 7141.5,
+      "x": 5526.5,
       "y": 0
     },
     {
@@ -928,7 +928,7 @@
       "name": "Zul",
       "gender": "male",
       "birthDate": "",
-      "x": 7024.5,
+      "x": 5457,
       "y": 160,
       "customRightGap": 0
     },
@@ -937,7 +937,7 @@
       "name": "Istri Ramli",
       "gender": "female",
       "birthDate": "",
-      "x": 6439.5,
+      "x": 5109.5,
       "y": 0
     },
     {
@@ -945,7 +945,7 @@
       "name": "Suami Ramayana",
       "gender": "male",
       "birthDate": "",
-      "x": 5971.5,
+      "x": 4831.5,
       "y": 0
     },
     {
@@ -953,7 +953,7 @@
       "name": "Wa Afia",
       "gender": "female",
       "birthDate": "",
-      "x": 7960.5,
+      "x": 6013,
       "y": -160,
       "customRightGap": 0,
       "customLeftGap": 500
@@ -963,7 +963,7 @@
       "name": "Rahiba",
       "gender": "female",
       "birthDate": "",
-      "x": 7843.5,
+      "x": 5943.5,
       "y": 0
     },
     {
@@ -971,7 +971,7 @@
       "name": "La Ode Uga",
       "gender": "male",
       "birthDate": "",
-      "x": 8077.5,
+      "x": 6082.5,
       "y": 0,
       "customRightGap": 0
     },
@@ -980,7 +980,7 @@
       "name": "La Ode Fadi",
       "gender": "male",
       "birthDate": "",
-      "x": 7609.5,
+      "x": 5804.5,
       "y": 160
     },
     {
@@ -988,7 +988,7 @@
       "name": "Wa Ode Ita",
       "gender": "female",
       "birthDate": "",
-      "x": 7843.5,
+      "x": 5943.5,
       "y": 160
     },
     {
@@ -996,7 +996,7 @@
       "name": "Ramadhan",
       "gender": "male",
       "birthDate": "",
-      "x": 8077.5,
+      "x": 6082.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -1005,7 +1005,7 @@
       "name": "Afilan Ode",
       "gender": "male",
       "birthDate": "",
-      "x": 8311.5,
+      "x": 6221.5,
       "y": 160
     },
     {
@@ -1013,7 +1013,7 @@
       "name": "Istri La Nahi",
       "gender": "female",
       "birthDate": "",
-      "x": 9013.5,
+      "x": 6638.5,
       "y": -160,
       "customRightGap": 0
     },
@@ -1022,7 +1022,7 @@
       "name": "Nana",
       "gender": "female",
       "birthDate": "",
-      "x": 8896.5,
+      "x": 6569,
       "y": 0,
       "customRightGap": 0
     },
@@ -1031,7 +1031,7 @@
       "name": "Ibux La Hilu",
       "gender": "female",
       "birthDate": "",
-      "x": 4450.5,
+      "x": 3928,
       "y": -160,
       "customLeftGap": 0,
       "customRightGap": 5600
@@ -1041,7 +1041,7 @@
       "name": "La Hilu",
       "gender": "male",
       "birthDate": "",
-      "x": 4333.5,
+      "x": 3858.5,
       "y": 0
     },
     {
@@ -1049,7 +1049,7 @@
       "name": "Wa Rampe",
       "gender": "female",
       "birthDate": "",
-      "x": 4567.5,
+      "x": 3997.5,
       "y": 0,
       "photoUrl": "https://ui-avatars.com/api/?name=Spouse&background=random",
       "customRightGap": 0
@@ -1059,7 +1059,7 @@
       "name": "Hairun",
       "gender": "male",
       "birthDate": "",
-      "x": 5035.5,
+      "x": 4275.5,
       "y": 160,
       "customRightGap": 60
     },
@@ -1068,7 +1068,7 @@
       "name": "La Malidi",
       "gender": "male",
       "birthDate": "",
-      "x": 17086.5,
+      "x": 11434,
       "y": -160
     },
     {
@@ -1076,7 +1076,7 @@
       "name": "La Saada",
       "gender": "male",
       "birthDate": "",
-      "x": 23287.5,
+      "x": 15117.5,
       "y": -160,
       "customRightGap": 0
     },
@@ -1085,7 +1085,7 @@
       "name": "Wa Keba",
       "gender": "female",
       "birthDate": "",
-      "x": 17320.5,
+      "x": 11573,
       "y": -160
     },
     {
@@ -1093,7 +1093,7 @@
       "name": "Wa Fariha",
       "gender": "female",
       "birthDate": "",
-      "x": 13108.5,
+      "x": 9071,
       "y": 0
     },
     {
@@ -1101,7 +1101,7 @@
       "name": "La Udin",
       "gender": "male",
       "birthDate": "",
-      "x": 16267.5,
+      "x": 10947.5,
       "y": 0
     },
     {
@@ -1109,7 +1109,7 @@
       "name": "Wa Hurma",
       "gender": "female",
       "birthDate": "",
-      "x": 18022.5,
+      "x": 11990,
       "y": 0
     },
     {
@@ -1117,7 +1117,7 @@
       "name": "Wa Amnia",
       "gender": "female",
       "birthDate": "",
-      "x": 19075.5,
+      "x": 12615.5,
       "y": 0
     },
     {
@@ -1125,7 +1125,7 @@
       "name": "Zaenudin",
       "gender": "male",
       "birthDate": "",
-      "x": 20128.5,
+      "x": 13241,
       "y": 0
     },
     {
@@ -1133,7 +1133,7 @@
       "name": "Maludin",
       "gender": "male",
       "birthDate": "",
-      "x": 20947.5,
+      "x": 13727.5,
       "y": 0
     },
     {
@@ -1141,7 +1141,7 @@
       "name": "La Dewaka",
       "gender": "male",
       "birthDate": "",
-      "x": 21649.5,
+      "x": 14144.5,
       "y": 0
     },
     {
@@ -1149,7 +1149,7 @@
       "name": "Anuju",
       "gender": "male",
       "birthDate": "",
-      "x": 22468.5,
+      "x": 14631,
       "y": 0
     },
     {
@@ -1157,7 +1157,7 @@
       "name": "Suami Wa Fariha",
       "gender": "male",
       "birthDate": "",
-      "x": 13342.5,
+      "x": 9210,
       "y": 0,
       "customRightGap": 0
     },
@@ -1166,7 +1166,7 @@
       "name": "Darson",
       "gender": "male",
       "birthDate": "",
-      "x": 11353.5,
+      "x": 8028.5,
       "y": 160
     },
     {
@@ -1174,7 +1174,7 @@
       "name": "Sudarmin",
       "gender": "male",
       "birthDate": "",
-      "x": 12172.5,
+      "x": 8515,
       "y": 160
     },
     {
@@ -1182,7 +1182,7 @@
       "name": "Sudarlin",
       "gender": "male",
       "birthDate": "",
-      "x": 13225.5,
+      "x": 9140.5,
       "y": 160
     },
     {
@@ -1190,7 +1190,7 @@
       "name": "Suwardin",
       "gender": "male",
       "birthDate": "",
-      "x": 14044.5,
+      "x": 9627,
       "y": 160
     },
     {
@@ -1198,7 +1198,7 @@
       "name": "Sumardin",
       "gender": "male",
       "birthDate": "",
-      "x": 14746.5,
+      "x": 10044,
       "y": 160
     },
     {
@@ -1206,7 +1206,7 @@
       "name": "Rani",
       "gender": "female",
       "birthDate": "",
-      "x": 11587.5,
+      "x": 8167.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -1215,7 +1215,7 @@
       "name": "Siran",
       "gender": "female",
       "birthDate": "",
-      "x": 11353.5,
+      "x": 8028.5,
       "y": 320
     },
     {
@@ -1223,7 +1223,7 @@
       "name": "Talang",
       "gender": "female",
       "birthDate": "",
-      "x": 11587.5,
+      "x": 8167.5,
       "y": 320,
       "customRightGap": 0
     },
@@ -1232,7 +1232,7 @@
       "name": "Wa Sia",
       "gender": "female",
       "birthDate": "",
-      "x": 12406.5,
+      "x": 8654,
       "y": 160,
       "customRightGap": 0
     },
@@ -1241,7 +1241,7 @@
       "name": "Susi",
       "gender": "female",
       "birthDate": "",
-      "x": 11821.5,
+      "x": 8306.5,
       "y": 320
     },
     {
@@ -1249,7 +1249,7 @@
       "name": "Martin",
       "gender": "female",
       "birthDate": "",
-      "x": 12289.5,
+      "x": 8584.5,
       "y": 320
     },
     {
@@ -1257,7 +1257,7 @@
       "name": "Anisa",
       "gender": "female",
       "birthDate": "",
-      "x": 12523.5,
+      "x": 8723.5,
       "y": 320
     },
     {
@@ -1265,7 +1265,7 @@
       "name": "Wa Umi",
       "gender": "female",
       "birthDate": "",
-      "x": 12757.5,
+      "x": 8862.5,
       "y": 320,
       "customRightGap": 0
     },
@@ -1274,7 +1274,7 @@
       "name": "Suami Susi",
       "gender": "male",
       "birthDate": "",
-      "x": 12055.5,
+      "x": 8445.5,
       "y": 320
     },
     {
@@ -1282,7 +1282,7 @@
       "name": "Anak Susi1",
       "gender": "female",
       "birthDate": "",
-      "x": 11821.5,
+      "x": 8306.5,
       "y": 480
     },
     {
@@ -1290,7 +1290,7 @@
       "name": "Anak Susi2",
       "gender": "female",
       "birthDate": "",
-      "x": 12055.5,
+      "x": 8445.5,
       "y": 480,
       "customRightGap": 0
     },
@@ -1299,7 +1299,7 @@
       "name": "Wa Igo",
       "gender": "female",
       "birthDate": "",
-      "x": 13459.5,
+      "x": 9279.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -1308,7 +1308,7 @@
       "name": "Elda",
       "gender": "female",
       "birthDate": "",
-      "x": 12991.5,
+      "x": 9001.5,
       "y": 320
     },
     {
@@ -1316,7 +1316,7 @@
       "name": "Wa Miki",
       "gender": "female",
       "birthDate": "",
-      "x": 13225.5,
+      "x": 9140.5,
       "y": 320
     },
     {
@@ -1324,7 +1324,7 @@
       "name": "Wa Eca",
       "gender": "female",
       "birthDate": "",
-      "x": 13459.5,
+      "x": 9279.5,
       "y": 320
     },
     {
@@ -1332,7 +1332,7 @@
       "name": "Di Mas",
       "gender": "male",
       "birthDate": "",
-      "x": 13693.5,
+      "x": 9418.5,
       "y": 320
     },
     {
@@ -1340,7 +1340,7 @@
       "name": "Wa Mape",
       "gender": "female",
       "birthDate": "",
-      "x": 14278.5,
+      "x": 9766,
       "y": 160
     },
     {
@@ -1348,7 +1348,7 @@
       "name": "Ferdi",
       "gender": "male",
       "birthDate": "",
-      "x": 14395.5,
+      "x": 9835.5,
       "y": 320
     },
     {
@@ -1356,7 +1356,7 @@
       "name": "Wa Ali",
       "gender": "female",
       "birthDate": "",
-      "x": 14980.5,
+      "x": 10183,
       "y": 160
     },
     {
@@ -1364,7 +1364,7 @@
       "name": "Hamdan",
       "gender": "male",
       "birthDate": "",
-      "x": 14629.5,
+      "x": 9974.5,
       "y": 320
     },
     {
@@ -1372,7 +1372,7 @@
       "name": "Wa Anggun",
       "gender": "female",
       "birthDate": "",
-      "x": 14863.5,
+      "x": 10113.5,
       "y": 320
     },
     {
@@ -1380,7 +1380,7 @@
       "name": "Adik Hamdan",
       "gender": "female",
       "birthDate": "",
-      "x": 15097.5,
+      "x": 10252.5,
       "y": 320,
       "customRightGap": 0
     },
@@ -1389,7 +1389,7 @@
       "name": "Nur",
       "gender": "female",
       "birthDate": "",
-      "x": 16501.5,
+      "x": 11086.5,
       "y": 0,
       "customRightGap": 0
     },
@@ -1398,7 +1398,7 @@
       "name": "Nuriani",
       "gender": "female",
       "birthDate": "",
-      "x": 15331.5,
+      "x": 10391.5,
       "y": 160
     },
     {
@@ -1406,7 +1406,7 @@
       "name": "Oga",
       "gender": "male",
       "birthDate": "",
-      "x": 15565.5,
+      "x": 10530.5,
       "y": 160
     },
     {
@@ -1414,7 +1414,7 @@
       "name": "Abu",
       "gender": "male",
       "birthDate": "",
-      "x": 16033.5,
+      "x": 10808.5,
       "y": 160
     },
     {
@@ -1422,7 +1422,7 @@
       "name": "Nurdin S",
       "gender": "male",
       "birthDate": "",
-      "x": 16501.5,
+      "x": 11086.5,
       "y": 160
     },
     {
@@ -1430,7 +1430,7 @@
       "name": "Nur Sadin",
       "gender": "male",
       "birthDate": "",
-      "x": 16735.5,
+      "x": 11225.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -1439,7 +1439,7 @@
       "name": "Wulan",
       "gender": "female",
       "birthDate": "",
-      "x": 17203.5,
+      "x": 11503.5,
       "y": 160
     },
     {
@@ -1447,7 +1447,7 @@
       "name": "Via",
       "gender": "female",
       "birthDate": "",
-      "x": 15799.5,
+      "x": 10669.5,
       "y": 160
     },
     {
@@ -1455,7 +1455,7 @@
       "name": "Eka",
       "gender": "female",
       "birthDate": "",
-      "x": 16267.5,
+      "x": 10947.5,
       "y": 160
     },
     {
@@ -1463,7 +1463,7 @@
       "name": "Aira",
       "gender": "female",
       "birthDate": "",
-      "x": 16150.5,
+      "x": 10878,
       "y": 320,
       "customRightGap": 0
     },
@@ -1472,7 +1472,7 @@
       "name": "Ranti",
       "gender": "female",
       "birthDate": "",
-      "x": 16969.5,
+      "x": 11364.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -1481,7 +1481,7 @@
       "name": "Irjal",
       "gender": "male",
       "birthDate": "",
-      "x": 16852.5,
+      "x": 11295,
       "y": 320,
       "customRightGap": 0
     },
@@ -1490,7 +1490,7 @@
       "name": "Safrin",
       "gender": "male",
       "birthDate": "",
-      "x": 17437.5,
+      "x": 11642.5,
       "y": 160
     },
     {
@@ -1498,7 +1498,7 @@
       "name": "Albaran",
       "gender": "male",
       "birthDate": "",
-      "x": 17320.5,
+      "x": 11573,
       "y": 320,
       "customRightGap": 0
     },
@@ -1507,7 +1507,7 @@
       "name": "La Mondo",
       "gender": "male",
       "birthDate": "",
-      "x": 18256.5,
+      "x": 12129,
       "y": 0,
       "customRightGap": 0
     },
@@ -1516,7 +1516,7 @@
       "name": "Hasmin",
       "gender": "male",
       "birthDate": "",
-      "x": 17905.5,
+      "x": 11920.5,
       "y": 160
     },
     {
@@ -1524,7 +1524,7 @@
       "name": "Mini",
       "gender": "female",
       "birthDate": "",
-      "x": 18607.5,
+      "x": 12337.5,
       "y": 160
     },
     {
@@ -1532,7 +1532,7 @@
       "name": "Wa Rita",
       "gender": "female",
       "birthDate": "",
-      "x": 18139.5,
+      "x": 12059.5,
       "y": 160
     },
     {
@@ -1540,7 +1540,7 @@
       "name": "Mita",
       "gender": "female",
       "birthDate": "",
-      "x": 17671.5,
+      "x": 11781.5,
       "y": 320
     },
     {
@@ -1548,7 +1548,7 @@
       "name": "Nina",
       "gender": "female",
       "birthDate": "",
-      "x": 17905.5,
+      "x": 11920.5,
       "y": 320
     },
     {
@@ -1556,7 +1556,7 @@
       "name": "Asti",
       "gender": "female",
       "birthDate": "",
-      "x": 18139.5,
+      "x": 12059.5,
       "y": 320
     },
     {
@@ -1564,7 +1564,7 @@
       "name": "Kisma",
       "gender": "female",
       "birthDate": "",
-      "x": 18373.5,
+      "x": 12198.5,
       "y": 320,
       "customRightGap": 0
     },
@@ -1573,7 +1573,7 @@
       "name": "Nahimu",
       "gender": "male",
       "birthDate": "",
-      "x": 18841.5,
+      "x": 12476.5,
       "y": 0
     },
     {
@@ -1581,7 +1581,7 @@
       "name": "Ati",
       "gender": "female",
       "birthDate": "",
-      "x": 18841.5,
+      "x": 12476.5,
       "y": 160
     },
     {
@@ -1589,7 +1589,7 @@
       "name": "Kadir",
       "gender": "male",
       "birthDate": "",
-      "x": 19543.5,
+      "x": 12893.5,
       "y": 0,
       "customRightGap": 0
     },
@@ -1598,7 +1598,7 @@
       "name": "Rahman",
       "gender": "male",
       "birthDate": "",
-      "x": 19309.5,
+      "x": 12754.5,
       "y": 160
     },
     {
@@ -1606,7 +1606,7 @@
       "name": "Emiriati",
       "gender": "female",
       "birthDate": "",
-      "x": 19543.5,
+      "x": 12893.5,
       "y": 160
     },
     {
@@ -1614,7 +1614,7 @@
       "name": "Albar",
       "gender": "male",
       "birthDate": "",
-      "x": 19777.5,
+      "x": 13032.5,
       "y": 160
     },
     {
@@ -1622,7 +1622,7 @@
       "name": "Kayla",
       "gender": "female",
       "birthDate": "",
-      "x": 19660.5,
+      "x": 12963,
       "y": 320,
       "customRightGap": 0
     },
@@ -1631,7 +1631,7 @@
       "name": "Wa Siria",
       "gender": "female",
       "birthDate": "",
-      "x": 20362.5,
+      "x": 13380,
       "y": 0,
       "customRightGap": 0
     },
@@ -1640,7 +1640,7 @@
       "name": "Wahidin",
       "gender": "male",
       "birthDate": "",
-      "x": 20128.5,
+      "x": 13241,
       "y": 160
     },
     {
@@ -1648,7 +1648,7 @@
       "name": "Eka",
       "gender": "female",
       "birthDate": "",
-      "x": 20362.5,
+      "x": 13380,
       "y": 160,
       "customRightGap": 0
     },
@@ -1657,7 +1657,7 @@
       "name": "Haikal",
       "gender": "male",
       "birthDate": "",
-      "x": 20011.5,
+      "x": 13171.5,
       "y": 320
     },
     {
@@ -1665,7 +1665,7 @@
       "name": "Safia",
       "gender": "female",
       "birthDate": "",
-      "x": 20245.5,
+      "x": 13310.5,
       "y": 320
     },
     {
@@ -1673,7 +1673,7 @@
       "name": "Nafisah",
       "gender": "female",
       "birthDate": "",
-      "x": 20479.5,
+      "x": 13449.5,
       "y": 320,
       "customRightGap": 0
     },
@@ -1682,7 +1682,7 @@
       "name": "Mulyani",
       "gender": "female",
       "birthDate": "",
-      "x": 21181.5,
+      "x": 13866.5,
       "y": 0,
       "customRightGap": 0
     },
@@ -1691,7 +1691,7 @@
       "name": "Fifiyani",
       "gender": "female",
       "birthDate": "",
-      "x": 20713.5,
+      "x": 13588.5,
       "y": 160
     },
     {
@@ -1699,7 +1699,7 @@
       "name": "Maulana",
       "gender": "male",
       "birthDate": "",
-      "x": 21181.5,
+      "x": 13866.5,
       "y": 160
     },
     {
@@ -1707,7 +1707,7 @@
       "name": "Yesi",
       "gender": "female",
       "birthDate": "",
-      "x": 21415.5,
+      "x": 14005.5,
       "y": 160
     },
     {
@@ -1715,7 +1715,7 @@
       "name": "Rafa",
       "gender": "male",
       "birthDate": "",
-      "x": 21298.5,
+      "x": 13936,
       "y": 320
     },
     {
@@ -1723,7 +1723,7 @@
       "name": "Suami Fifi",
       "gender": "male",
       "birthDate": "",
-      "x": 20947.5,
+      "x": 13727.5,
       "y": 160
     },
     {
@@ -1731,7 +1731,7 @@
       "name": "Jumana",
       "gender": "female",
       "birthDate": "",
-      "x": 21883.5,
+      "x": 14283.5,
       "y": 0
     },
     {
@@ -1739,7 +1739,7 @@
       "name": "Wa Ati",
       "gender": "female",
       "birthDate": "",
-      "x": 22702.5,
+      "x": 14770,
       "y": 0,
       "customRightGap": 0
     },
@@ -1748,7 +1748,7 @@
       "name": "Firman",
       "gender": "male",
       "birthDate": "",
-      "x": 22117.5,
+      "x": 14422.5,
       "y": 160
     },
     {
@@ -1756,7 +1756,7 @@
       "name": "Vita",
       "gender": "female",
       "birthDate": "",
-      "x": 22585.5,
+      "x": 14700.5,
       "y": 160
     },
     {
@@ -1764,7 +1764,7 @@
       "name": "Wanda",
       "gender": "female",
       "birthDate": "",
-      "x": 22819.5,
+      "x": 14839.5,
       "y": 160
     },
     {
@@ -1772,7 +1772,7 @@
       "name": "Agil",
       "gender": "male",
       "birthDate": "",
-      "x": 23053.5,
+      "x": 14978.5,
       "y": 160
     },
     {
@@ -1780,7 +1780,7 @@
       "name": "Isran",
       "gender": "female",
       "birthDate": "",
-      "x": 22351.5,
+      "x": 14561.5,
       "y": 160
     },
     {
@@ -1788,7 +1788,7 @@
       "name": "Afka",
       "gender": "male",
       "birthDate": "",
-      "x": 22117.5,
+      "x": 14422.5,
       "y": 320
     },
     {
@@ -1796,7 +1796,7 @@
       "name": "Aska",
       "gender": "male",
       "birthDate": "",
-      "x": 22351.5,
+      "x": 14561.5,
       "y": 320,
       "customRightGap": 0
     },
@@ -1805,7 +1805,7 @@
       "name": "La Baabu",
       "gender": "male",
       "birthDate": "",
-      "x": 10066.5,
+      "x": 7264,
       "y": -160
     },
     {
@@ -1813,7 +1813,7 @@
       "name": "Wa Baa",
       "gender": "female",
       "birthDate": "",
-      "x": 10300.5,
+      "x": 7403,
       "y": -160,
       "customRightGap": 0
     },
@@ -1822,7 +1822,7 @@
       "name": "Kamaludin",
       "gender": "male",
       "birthDate": "",
-      "x": 9364.5,
+      "x": 6847,
       "y": 0
     },
     {
@@ -1830,7 +1830,7 @@
       "name": "Wa Mani",
       "gender": "female",
       "birthDate": "",
-      "x": 9949.5,
+      "x": 7194.5,
       "y": 0
     },
     {
@@ -1838,7 +1838,7 @@
       "name": "Wa Eka",
       "gender": "female",
       "birthDate": "",
-      "x": 10417.5,
+      "x": 7472.5,
       "y": 0
     },
     {
@@ -1846,7 +1846,7 @@
       "name": "Rina",
       "gender": "female",
       "birthDate": "",
-      "x": 10885.5,
+      "x": 7750.5,
       "y": 0
     },
     {
@@ -1854,7 +1854,7 @@
       "name": "Istri Kamaludin",
       "gender": "female",
       "birthDate": "",
-      "x": 9598.5,
+      "x": 6986,
       "y": 0,
       "customRightGap": 0
     },
@@ -1863,7 +1863,7 @@
       "name": "Jannah",
       "gender": "female",
       "birthDate": "",
-      "x": 9247.5,
+      "x": 6777.5,
       "y": 160
     },
     {
@@ -1871,7 +1871,7 @@
       "name": "La Ica",
       "gender": "male",
       "birthDate": "",
-      "x": 9481.5,
+      "x": 6916.5,
       "y": 160
     },
     {
@@ -1879,7 +1879,7 @@
       "name": "Mariam",
       "gender": "female",
       "birthDate": "",
-      "x": 9715.5,
+      "x": 7055.5,
       "y": 160
     },
     {
@@ -1887,7 +1887,7 @@
       "name": "Aidi",
       "gender": "male",
       "birthDate": "",
-      "x": 10183.5,
+      "x": 7333.5,
       "y": 0
     },
     {
@@ -1895,7 +1895,7 @@
       "name": "Anak Baru",
       "gender": "other",
       "birthDate": "",
-      "x": 10066.5,
+      "x": 7264,
       "y": 160,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random"
     },
@@ -1904,7 +1904,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 10651.5,
+      "x": 7611.5,
       "y": 0,
       "photoUrl": "https://ui-avatars.com/api/?name=Spouse&background=random"
     },
@@ -1913,7 +1913,7 @@
       "name": "Anak Baru",
       "gender": "other",
       "birthDate": "",
-      "x": 10534.5,
+      "x": 7542,
       "y": 160,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random",
       "customRightGap": 0
@@ -1923,7 +1923,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 11119.5,
+      "x": 7889.5,
       "y": 0,
       "photoUrl": "https://ui-avatars.com/api/?name=Spouse&background=random"
     },
@@ -1932,7 +1932,7 @@
       "name": "Anak Baru",
       "gender": "other",
       "birthDate": "",
-      "x": 11002.5,
+      "x": 7820,
       "y": 160,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random",
       "customRightGap": 0
@@ -1942,7 +1942,7 @@
       "name": "Wa Sahadhi",
       "gender": "female",
       "birthDate": "",
-      "x": 24106.5,
+      "x": 15604,
       "y": -160
     },
     {
@@ -1950,7 +1950,7 @@
       "name": "La Kuri",
       "gender": "male",
       "birthDate": "",
-      "x": 24340.5,
+      "x": 15743,
       "y": -160,
       "customRightGap": 0
     },
@@ -1959,7 +1959,7 @@
       "name": "La Wasa",
       "gender": "male",
       "birthDate": "",
-      "x": 23521.5,
+      "x": 15256.5,
       "y": 0
     },
     {
@@ -1967,7 +1967,7 @@
       "name": "Wa Rufia",
       "gender": "female",
       "birthDate": "",
-      "x": 23755.5,
+      "x": 15395.5,
       "y": 0
     },
     {
@@ -1975,7 +1975,7 @@
       "name": "Wa Ema",
       "gender": "female",
       "birthDate": "",
-      "x": 23989.5,
+      "x": 15534.5,
       "y": 0
     },
     {
@@ -1983,7 +1983,7 @@
       "name": "Wa Anda",
       "gender": "female",
       "birthDate": "",
-      "x": 24223.5,
+      "x": 15673.5,
       "y": 0
     },
     {
@@ -1991,7 +1991,7 @@
       "name": "La Adami",
       "gender": "male",
       "birthDate": "",
-      "x": 24457.5,
+      "x": 15812.5,
       "y": 0
     },
     {
@@ -1999,7 +1999,7 @@
       "name": "La Sandali",
       "gender": "male",
       "birthDate": "",
-      "x": 24691.5,
+      "x": 15951.5,
       "y": 0
     },
     {
@@ -2007,7 +2007,7 @@
       "name": "La Baea",
       "gender": "male",
       "birthDate": "",
-      "x": 24925.5,
+      "x": 16090.5,
       "y": 0
     },
     {
@@ -2015,7 +2015,7 @@
       "name": "La Kundo",
       "gender": "male",
       "birthDate": "",
-      "x": 25861.5,
+      "x": 16646.5,
       "y": -160,
       "customRightGap": 0
     },
@@ -2024,7 +2024,7 @@
       "name": "Wa Imara",
       "gender": "female",
       "birthDate": "",
-      "x": 33466.5,
+      "x": 21164,
       "y": -320
     },
     {
@@ -2032,7 +2032,7 @@
       "name": "Wa Maami",
       "gender": "female",
       "birthDate": "",
-      "x": 31594.5,
+      "x": 20052,
       "y": -160
     },
     {
@@ -2040,7 +2040,7 @@
       "name": "Wa Hiima",
       "gender": "female",
       "birthDate": "",
-      "x": 37561.5,
+      "x": 23595.388916015625,
       "y": -160
     },
     {
@@ -2048,15 +2048,15 @@
       "name": "La Suha",
       "gender": "male",
       "birthDate": "",
-      "x": 37795.5,
-      "y": -160
+      "x": 23732.16668701172,
+      "y": -161.11114501953125
     },
     {
       "id": "x4yxi355l",
       "name": "Wa Lupi",
       "gender": "female",
       "birthDate": "",
-      "x": 38965.5,
+      "x": 24430.5,
       "y": -160
     },
     {
@@ -2064,15 +2064,15 @@
       "name": "Wa Adhi",
       "gender": "female",
       "birthDate": "",
-      "x": 40369.5,
-      "y": -160
+      "x": 25263.388916015625,
+      "y": -162.22219848632812
     },
     {
       "id": "6tvibuijm",
       "name": "Wa Nando",
       "gender": "female",
       "birthDate": "",
-      "x": 40603.5,
+      "x": 25403.5,
       "y": -160
     },
     {
@@ -2080,7 +2080,7 @@
       "name": "La Idini",
       "gender": "male",
       "birthDate": "",
-      "x": 31828.5,
+      "x": 20191,
       "y": -160
     },
     {
@@ -2088,7 +2088,7 @@
       "name": "La Runduma",
       "gender": "male",
       "birthDate": "",
-      "x": 26095.5,
+      "x": 16785.5,
       "y": 0
     },
     {
@@ -2096,7 +2096,7 @@
       "name": "Lausa",
       "gender": "male",
       "birthDate": "",
-      "x": 26563.5,
+      "x": 17063.5,
       "y": 0
     },
     {
@@ -2104,7 +2104,7 @@
       "name": "La Nisa",
       "gender": "male",
       "birthDate": "",
-      "x": 27850.5,
+      "x": 17828,
       "y": 0
     },
     {
@@ -2112,7 +2112,7 @@
       "name": "Wa Sahuna",
       "gender": "female",
       "birthDate": "",
-      "x": 28903.5,
+      "x": 18453.5,
       "y": 0
     },
     {
@@ -2120,7 +2120,7 @@
       "name": "Wa Kabila",
       "gender": "female",
       "birthDate": "",
-      "x": 31360.5,
+      "x": 19913,
       "y": 0
     },
     {
@@ -2128,7 +2128,7 @@
       "name": "Manan B",
       "gender": "male",
       "birthDate": "",
-      "x": 35455.5,
+      "x": 22345.5,
       "y": 0
     },
     {
@@ -2136,7 +2136,7 @@
       "name": "Wa Nipo",
       "gender": "female",
       "birthDate": "",
-      "x": 26797.5,
+      "x": 17202.5,
       "y": 0,
       "customRightGap": 0
     },
@@ -2145,7 +2145,7 @@
       "name": "Sahiru",
       "gender": "male",
       "birthDate": "",
-      "x": 26329.5,
+      "x": 16924.5,
       "y": 160
     },
     {
@@ -2153,7 +2153,7 @@
       "name": "Sanira",
       "gender": "female",
       "birthDate": "",
-      "x": 26563.5,
+      "x": 17063.5,
       "y": 160
     },
     {
@@ -2161,7 +2161,7 @@
       "name": "Walifa",
       "gender": "female",
       "birthDate": "",
-      "x": 26797.5,
+      "x": 17202.5,
       "y": 160
     },
     {
@@ -2169,7 +2169,7 @@
       "name": "Anak Baru",
       "gender": "female",
       "birthDate": "",
-      "x": 27031.5,
+      "x": 17341.5,
       "y": 160,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random",
       "customRightGap": 0
@@ -2179,7 +2179,7 @@
       "name": "Wa Duraini",
       "gender": "female",
       "birthDate": "",
-      "x": 28084.5,
+      "x": 17967,
       "y": 0,
       "customRightGap": 0
     },
@@ -2188,7 +2188,7 @@
       "name": "Nasir",
       "gender": "male",
       "birthDate": "",
-      "x": 27382.5,
+      "x": 17550,
       "y": 160
     },
     {
@@ -2196,7 +2196,7 @@
       "name": "Ani",
       "gender": "female",
       "birthDate": "",
-      "x": 27967.5,
+      "x": 17897.5,
       "y": 160
     },
     {
@@ -2204,7 +2204,7 @@
       "name": "La Nuri",
       "gender": "male",
       "birthDate": "",
-      "x": 28201.5,
+      "x": 18036.5,
       "y": 160
     },
     {
@@ -2212,7 +2212,7 @@
       "name": "La Dinda",
       "gender": "male",
       "birthDate": "",
-      "x": 28435.5,
+      "x": 18175.5,
       "y": 160
     },
     {
@@ -2220,7 +2220,7 @@
       "name": "Riadi",
       "gender": "male",
       "birthDate": "",
-      "x": 28669.5,
+      "x": 18314.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -2229,7 +2229,7 @@
       "name": "Istri Nasir",
       "gender": "female",
       "birthDate": "",
-      "x": 27616.5,
+      "x": 17689,
       "y": 160
     },
     {
@@ -2237,7 +2237,7 @@
       "name": "Yana",
       "gender": "female",
       "birthDate": "",
-      "x": 27265.5,
+      "x": 17480.5,
       "y": 320,
       "customRightGap": 0
     },
@@ -2246,7 +2246,7 @@
       "name": "Anak Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 27499.5,
+      "x": 17619.5,
       "y": 320,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random"
     },
@@ -2255,7 +2255,7 @@
       "name": "Anak Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 27733.5,
+      "x": 17758.5,
       "y": 320,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random",
       "customRightGap": 0
@@ -2265,7 +2265,7 @@
       "name": "Hamiru",
       "gender": "male",
       "birthDate": "",
-      "x": 29137.5,
+      "x": 18592.5,
       "y": 0
     },
     {
@@ -2273,7 +2273,7 @@
       "name": "La Baetu",
       "gender": "male",
       "birthDate": "",
-      "x": 31594.5,
+      "x": 20052,
       "y": 0,
       "customRightGap": 0
     },
@@ -2282,7 +2282,7 @@
       "name": "Wa Sati",
       "gender": "female",
       "birthDate": "",
-      "x": 29839.5,
+      "x": 19009.5,
       "y": 160
     },
     {
@@ -2290,7 +2290,7 @@
       "name": "La Dobolo",
       "gender": "female",
       "birthDate": "",
-      "x": 31009.5,
+      "x": 19704.5,
       "y": 160
     },
     {
@@ -2298,7 +2298,7 @@
       "name": "Wa Muliati",
       "gender": "female",
       "birthDate": "",
-      "x": 31828.5,
+      "x": 20191,
       "y": 160
     },
     {
@@ -2306,7 +2306,7 @@
       "name": "Yamin",
       "gender": "female",
       "birthDate": "",
-      "x": 32413.5,
+      "x": 20538.5,
       "y": 160
     },
     {
@@ -2314,7 +2314,7 @@
       "name": "La Madi",
       "gender": "male",
       "birthDate": "",
-      "x": 32881.5,
+      "x": 20816.5,
       "y": 160
     },
     {
@@ -2322,7 +2322,7 @@
       "name": "Wa Dia",
       "gender": "female",
       "birthDate": "",
-      "x": 33349.5,
+      "x": 21094.5,
       "y": 160
     },
     {
@@ -2330,7 +2330,7 @@
       "name": "La Bolo",
       "gender": "male",
       "birthDate": "",
-      "x": 30073.5,
+      "x": 19148.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -2339,7 +2339,7 @@
       "name": "Wa Ubo",
       "gender": "female",
       "birthDate": "",
-      "x": 29488.5,
+      "x": 18801,
       "y": 320
     },
     {
@@ -2347,7 +2347,7 @@
       "name": "Jumadin",
       "gender": "male",
       "birthDate": "",
-      "x": 30073.5,
+      "x": 19148.5,
       "y": 320
     },
     {
@@ -2355,7 +2355,7 @@
       "name": "Belinda",
       "gender": "female",
       "birthDate": "",
-      "x": 30541.5,
+      "x": 19426.5,
       "y": 320
     },
     {
@@ -2363,7 +2363,7 @@
       "name": "La Opi",
       "gender": "male",
       "birthDate": "",
-      "x": 29722.5,
+      "x": 18940,
       "y": 320
     },
     {
@@ -2371,7 +2371,7 @@
       "name": "Wa Suci",
       "gender": "female",
       "birthDate": "",
-      "x": 29371.5,
+      "x": 18731.5,
       "y": 480
     },
     {
@@ -2379,7 +2379,7 @@
       "name": "La Tebe",
       "gender": "male",
       "birthDate": "",
-      "x": 29605.5,
+      "x": 18870.5,
       "y": 480
     },
     {
@@ -2387,7 +2387,7 @@
       "name": "Alif",
       "gender": "male",
       "birthDate": "",
-      "x": 29839.5,
+      "x": 19009.5,
       "y": 480,
       "customRightGap": 0
     },
@@ -2396,7 +2396,7 @@
       "name": "Wa Tini",
       "gender": "female",
       "birthDate": "",
-      "x": 30307.5,
+      "x": 19287.5,
       "y": 320
     },
     {
@@ -2404,7 +2404,7 @@
       "name": "Arjun",
       "gender": "male",
       "birthDate": "",
-      "x": 30073.5,
+      "x": 19148.5,
       "y": 480
     },
     {
@@ -2412,7 +2412,7 @@
       "name": "Adiba",
       "gender": "female",
       "birthDate": "",
-      "x": 30307.5,
+      "x": 19287.5,
       "y": 480,
       "customRightGap": 0
     },
@@ -2421,7 +2421,7 @@
       "name": "Wa Jumria",
       "gender": "male",
       "birthDate": "",
-      "x": 31243.5,
+      "x": 19843.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -2430,7 +2430,7 @@
       "name": "Didin",
       "gender": "male",
       "birthDate": "",
-      "x": 30775.5,
+      "x": 19565.5,
       "y": 320
     },
     {
@@ -2438,7 +2438,7 @@
       "name": "Ian",
       "gender": "male",
       "birthDate": "",
-      "x": 31243.5,
+      "x": 19843.5,
       "y": 320
     },
     {
@@ -2446,7 +2446,7 @@
       "name": "Istri Didin",
       "gender": "female",
       "birthDate": "",
-      "x": 31009.5,
+      "x": 19704.5,
       "y": 320
     },
     {
@@ -2454,7 +2454,7 @@
       "name": "Aca",
       "gender": "female",
       "birthDate": "",
-      "x": 30892.5,
+      "x": 19635,
       "y": 480,
       "customRightGap": 0
     },
@@ -2463,7 +2463,7 @@
       "name": "Istri Ian",
       "gender": "female",
       "birthDate": "",
-      "x": 31477.5,
+      "x": 19982.5,
       "y": 320
     },
     {
@@ -2471,7 +2471,7 @@
       "name": "Anak Baru",
       "gender": "other",
       "birthDate": "",
-      "x": 31243.5,
+      "x": 19843.5,
       "y": 480,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random"
     },
@@ -2480,7 +2480,7 @@
       "name": "Anak Baru",
       "gender": "other",
       "birthDate": "",
-      "x": 31477.5,
+      "x": 19982.5,
       "y": 480,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random"
     },
@@ -2489,7 +2489,7 @@
       "name": "Hasdi",
       "gender": "male",
       "birthDate": "",
-      "x": 32062.5,
+      "x": 20330,
       "y": 160,
       "customRightGap": 0
     },
@@ -2498,7 +2498,7 @@
       "name": "Narti",
       "gender": "female",
       "birthDate": "",
-      "x": 31711.5,
+      "x": 20121.5,
       "y": 320
     },
     {
@@ -2506,7 +2506,7 @@
       "name": "Alfon",
       "gender": "male",
       "birthDate": "",
-      "x": 31945.5,
+      "x": 20260.5,
       "y": 320
     },
     {
@@ -2514,7 +2514,7 @@
       "name": "Anak Baru",
       "gender": "female",
       "birthDate": "",
-      "x": 32179.5,
+      "x": 20399.5,
       "y": 320
     },
     {
@@ -2522,7 +2522,7 @@
       "name": "Istri Yamin",
       "gender": "male",
       "birthDate": "",
-      "x": 32647.5,
+      "x": 20677.5,
       "y": 160
     },
     {
@@ -2530,7 +2530,7 @@
       "name": "Anak Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 32530.5,
+      "x": 20608,
       "y": 320
     },
     {
@@ -2538,7 +2538,7 @@
       "name": "Istri La Madi",
       "gender": "female",
       "birthDate": "",
-      "x": 33115.5,
+      "x": 20955.5,
       "y": 160
     },
     {
@@ -2546,7 +2546,7 @@
       "name": "Anak Baru",
       "gender": "other",
       "birthDate": "",
-      "x": 32998.5,
+      "x": 20886,
       "y": 320,
       "photoUrl": "https://ui-avatars.com/api/?name=Child&background=random"
     },
@@ -2555,7 +2555,7 @@
       "name": "Anwar",
       "gender": "male",
       "birthDate": "",
-      "x": 33583.5,
+      "x": 21233.5,
       "y": 160
     },
     {
@@ -2563,7 +2563,7 @@
       "name": "Andika",
       "gender": "male",
       "birthDate": "",
-      "x": 33466.5,
+      "x": 21164,
       "y": 320
     },
     {
@@ -2571,7 +2571,7 @@
       "name": "Zainabu",
       "gender": "female",
       "birthDate": "",
-      "x": 35689.5,
+      "x": 22484.5,
       "y": 0
     },
     {
@@ -2579,7 +2579,7 @@
       "name": "Nuriati (ati)",
       "gender": "female",
       "birthDate": "",
-      "x": 33934.5,
+      "x": 21442,
       "y": 160
     },
     {
@@ -2587,7 +2587,7 @@
       "name": "Mujono",
       "gender": "male",
       "birthDate": "",
-      "x": 34753.5,
+      "x": 21928.5,
       "y": 160
     },
     {
@@ -2595,7 +2595,7 @@
       "name": "Mukhlis",
       "gender": "male",
       "birthDate": "",
-      "x": 35923.5,
+      "x": 22623.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -2604,7 +2604,7 @@
       "name": "Junaidin",
       "gender": "male",
       "birthDate": "",
-      "x": 36391.5,
+      "x": 22901.5,
       "y": 160
     },
     {
@@ -2612,7 +2612,7 @@
       "name": "Sudirman",
       "gender": "male",
       "birthDate": "",
-      "x": 36625.5,
+      "x": 23040.5,
       "y": 160
     },
     {
@@ -2620,7 +2620,7 @@
       "name": "Nurtitin",
       "gender": "female",
       "birthDate": "",
-      "x": 36859.5,
+      "x": 23179.5,
       "y": 160
     },
     {
@@ -2628,7 +2628,7 @@
       "name": "Wa Nunung",
       "gender": "female",
       "birthDate": "",
-      "x": 37093.5,
+      "x": 23318.5,
       "y": 160
     },
     {
@@ -2636,7 +2636,7 @@
       "name": "Yoga",
       "gender": "male",
       "birthDate": "",
-      "x": 37327.5,
+      "x": 23457.5,
       "y": 160
     },
     {
@@ -2644,7 +2644,7 @@
       "name": "Suwarudin",
       "gender": "male",
       "birthDate": "",
-      "x": 34168.5,
+      "x": 21581,
       "y": 160
     },
     {
@@ -2652,7 +2652,7 @@
       "name": "Ayub",
       "gender": "male",
       "birthDate": "",
-      "x": 33817.5,
+      "x": 21372.5,
       "y": 320
     },
     {
@@ -2660,7 +2660,7 @@
       "name": "Viva",
       "gender": "female",
       "birthDate": "",
-      "x": 34051.5,
+      "x": 21511.5,
       "y": 320
     },
     {
@@ -2668,7 +2668,7 @@
       "name": "Sifa",
       "gender": "female",
       "birthDate": "",
-      "x": 34285.5,
+      "x": 21650.5,
       "y": 320
     },
     {
@@ -2676,7 +2676,7 @@
       "name": "Istri Mujono",
       "gender": "female",
       "birthDate": "",
-      "x": 34987.5,
+      "x": 22067.5,
       "y": 160,
       "customRightGap": 0
     },
@@ -2685,7 +2685,7 @@
       "name": "Ayu Wandira",
       "gender": "female",
       "birthDate": "",
-      "x": 34519.5,
+      "x": 21789.5,
       "y": 320
     },
     {
@@ -2693,7 +2693,7 @@
       "name": "Awal",
       "gender": "male",
       "birthDate": "",
-      "x": 34753.5,
+      "x": 21928.5,
       "y": 320
     },
     {
@@ -2701,7 +2701,7 @@
       "name": "Irna",
       "gender": "male",
       "birthDate": "",
-      "x": 34987.5,
+      "x": 22067.5,
       "y": 320
     },
     {
@@ -2709,7 +2709,7 @@
       "name": "Syawal",
       "gender": "male",
       "birthDate": "",
-      "x": 35221.5,
+      "x": 22206.5,
       "y": 320
     },
     {
@@ -2717,7 +2717,7 @@
       "name": "Fatima",
       "gender": "female",
       "birthDate": "",
-      "x": 35572.5,
+      "x": 22415,
       "y": 160,
       "customRightGap": 0
     },
@@ -2726,7 +2726,7 @@
       "name": "Yayu",
       "gender": "female",
       "birthDate": "",
-      "x": 35455.5,
+      "x": 22345.5,
       "y": 320
     },
     {
@@ -2734,7 +2734,7 @@
       "name": "Isar",
       "gender": "male",
       "birthDate": "",
-      "x": 35689.5,
+      "x": 22484.5,
       "y": 320
     },
     {
@@ -2742,7 +2742,7 @@
       "name": "Diana",
       "gender": "female",
       "birthDate": "",
-      "x": 36157.5,
+      "x": 22762.5,
       "y": 160,
       "customLeftGap": 0
     },
@@ -2751,7 +2751,7 @@
       "name": "Evo Abdul Jalaludin",
       "gender": "male",
       "birthDate": "",
-      "x": 36157.5,
+      "x": 22762.5,
       "y": 320
     },
     {
@@ -2767,7 +2767,7 @@
       "name": "Wa Maria",
       "gender": "female",
       "birthDate": "",
-      "x": 17320.5,
+      "x": 11573,
       "y": -320
     },
     {
@@ -2775,7 +2775,7 @@
       "name": "Wa Dawu",
       "gender": "female",
       "birthDate": "",
-      "x": 10183.5,
+      "x": 7333.5,
       "y": -320
     },
     {
@@ -2783,7 +2783,7 @@
       "name": "Wa Kaeta",
       "gender": "female",
       "birthDate": "",
-      "x": 24223.5,
+      "x": 15673.5,
       "y": -320
     },
     {
@@ -2791,7 +2791,7 @@
       "name": "Wakambea",
       "gender": "female",
       "birthDate": "",
-      "x": 25627.5,
+      "x": 16507.5,
       "y": -320
     },
     {
@@ -2799,7 +2799,7 @@
       "name": "Wa Dauda",
       "gender": "female",
       "birthDate": "",
-      "x": 25393.5,
+      "x": 16368.5,
       "y": -320
     },
     {
@@ -2807,7 +2807,7 @@
       "name": "Wa Hamisi",
       "gender": "female",
       "birthDate": "",
-      "x": 25861.5,
+      "x": 16646.5,
       "y": -320
     },
     {
@@ -2815,7 +2815,7 @@
       "name": "Hadhi",
       "gender": "male",
       "birthDate": "",
-      "x": 592035.9087301588,
+      "x": 591162.9087301588,
       "y": -261.968253968254
     },
     {
@@ -2823,7 +2823,7 @@
       "name": "Wa Eda",
       "gender": "female",
       "birthDate": "",
-      "x": 45517.5,
+      "x": 28322.5,
       "y": -160
     },
     {
@@ -2831,7 +2831,7 @@
       "name": "Ika",
       "gender": "female",
       "birthDate": "",
-      "x": 5269.5,
+      "x": 4414.5,
       "y": 160
     },
     {
@@ -2839,7 +2839,7 @@
       "name": "Wa Jali",
       "gender": "female",
       "birthDate": "",
-      "x": 4567.5,
+      "x": 3997.5,
       "y": 160
     },
     {
@@ -2847,7 +2847,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 4801.5,
+      "x": 4136.5,
       "y": 160
     },
     {
@@ -2855,7 +2855,7 @@
       "name": "Anak Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 4684.5,
+      "x": 4067,
       "y": 320
     },
     {
@@ -2863,7 +2863,7 @@
       "name": "Wa Nanti",
       "gender": "female",
       "birthDate": "",
-      "x": 4099.5,
+      "x": 3719.5,
       "y": 160
     },
     {
@@ -2871,7 +2871,7 @@
       "name": "Wa Tifa",
       "gender": "female",
       "birthDate": "",
-      "x": 3631.5,
+      "x": 3441.5,
       "y": 160
     },
     {
@@ -2879,7 +2879,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 4333.5,
+      "x": 3858.5,
       "y": 160
     },
     {
@@ -2887,7 +2887,7 @@
       "name": "Anak Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 4216.5,
+      "x": 3789,
       "y": 320
     },
     {
@@ -2895,7 +2895,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 3865.5,
+      "x": 3580.5,
       "y": 160
     },
     {
@@ -2903,7 +2903,7 @@
       "name": "Anak Baru",
       "gender": "female",
       "birthDate": "",
-      "x": 3748.5,
+      "x": 3511,
       "y": 320
     },
     {
@@ -2911,7 +2911,7 @@
       "name": "La Ngkaali",
       "gender": "male",
       "birthDate": "",
-      "x": 591625.6706349207,
+      "x": 590752.6706349207,
       "y": -79.55555555555566
     },
     {
@@ -2919,7 +2919,7 @@
       "name": "Wa Malusa",
       "gender": "female",
       "birthDate": "",
-      "x": 591508.6706349207,
+      "x": 590635.6706349207,
       "y": 64.33333333333323
     },
     {
@@ -2927,7 +2927,7 @@
       "name": "Wa Faimu",
       "gender": "female",
       "birthDate": "",
-      "x": 591724.6706349207,
+      "x": 590851.6706349207,
       "y": 62.44444444444434
     },
     {
@@ -2935,7 +2935,7 @@
       "name": "La Mai",
       "gender": "male",
       "birthDate": "",
-      "x": 591328.1706349207,
+      "x": 590455.1706349207,
       "y": -94.05555555555564
     },
     {
@@ -2943,7 +2943,7 @@
       "name": "La Fadaha",
       "gender": "male",
       "birthDate": "",
-      "x": 590978.1150793652,
+      "x": 590105.1150793652,
       "y": 55.44444444444434
     },
     {
@@ -2951,7 +2951,7 @@
       "name": "La Potubu",
       "gender": "male",
       "birthDate": "",
-      "x": 590485.6150793652,
+      "x": 589612.6150793652,
       "y": 244.33333333333323
     },
     {
@@ -2959,7 +2959,7 @@
       "name": "Wa Eba",
       "gender": "female",
       "birthDate": "",
-      "x": 590678.9484126986,
+      "x": 589805.9484126986,
       "y": 247.66666666666654
     },
     {
@@ -2967,7 +2967,7 @@
       "name": "Wa Hipa",
       "gender": "female",
       "birthDate": "",
-      "x": 590886.4484126986,
+      "x": 590013.4484126986,
       "y": 245.16666666666657
     },
     {
@@ -2975,7 +2975,7 @@
       "name": "Armin",
       "gender": "male",
       "birthDate": "",
-      "x": 591076.7261904763,
+      "x": 590203.7261904763,
       "y": 243.22222222222211
     },
     {
@@ -2983,7 +2983,7 @@
       "name": "Alfia",
       "gender": "female",
       "birthDate": "",
-      "x": 591283.6706349207,
+      "x": 590410.6706349207,
       "y": 241.83333333333323
     },
     {
@@ -2991,7 +2991,7 @@
       "name": "La Wadho",
       "gender": "male",
       "birthDate": "",
-      "x": 591496.1706349207,
+      "x": 590623.1706349207,
       "y": 244.33333333333323
     },
     {
@@ -2999,7 +2999,7 @@
       "name": "Amsia",
       "gender": "female",
       "birthDate": "",
-      "x": 591981.1706349207,
+      "x": 591108.1706349207,
       "y": 256.83333333333326
     },
     {
@@ -3007,7 +3007,7 @@
       "name": "Wiadi",
       "gender": "male",
       "birthDate": "",
-      "x": 592188.6706349207,
+      "x": 591315.6706349207,
       "y": 256.83333333333326
     },
     {
@@ -3015,7 +3015,7 @@
       "name": "Wa Ati",
       "gender": "female",
       "birthDate": "",
-      "x": 592396.1706349207,
+      "x": 591523.1706349207,
       "y": 254.33333333333323
     },
     {
@@ -3023,7 +3023,7 @@
       "name": "Kariadi",
       "gender": "male",
       "birthDate": "",
-      "x": 592963.6706349207,
+      "x": 592090.6706349207,
       "y": 261.83333333333326
     },
     {
@@ -3031,7 +3031,7 @@
       "name": "Pasangan Baru",
       "gender": "female",
       "birthDate": "",
-      "x": 593173.6706349207,
+      "x": 592300.6706349207,
       "y": 261.83333333333326
     },
     {
@@ -3039,7 +3039,7 @@
       "name": "Diki",
       "gender": "male",
       "birthDate": "",
-      "x": 592963.6706349207,
+      "x": 592090.6706349207,
       "y": 421.83333333333326
     },
     {
@@ -3047,7 +3047,7 @@
       "name": "Marius",
       "gender": "male",
       "birthDate": "",
-      "x": 592651.1706349207,
+      "x": 591778.1706349207,
       "y": 259.33333333333326
     },
     {
@@ -3055,7 +3055,7 @@
       "name": "Atma",
       "gender": "female",
       "birthDate": "",
-      "x": 592266.1706349207,
+      "x": 591393.1706349207,
       "y": 424.33333333333326
     },
     {
@@ -3063,7 +3063,7 @@
       "name": "La Iki",
       "gender": "male",
       "birthDate": "",
-      "x": 592466.1706349207,
+      "x": 591593.1706349207,
       "y": 414.33333333333326
     },
     {
@@ -3071,7 +3071,7 @@
       "name": "Memei",
       "gender": "female",
       "birthDate": "",
-      "x": 592693.6706349207,
+      "x": 591820.6706349207,
       "y": 409.33333333333326
     },
     {
@@ -3079,23 +3079,15 @@
       "name": "Anak Baru",
       "gender": "female",
       "birthDate": "",
-      "x": 593173.6706349207,
+      "x": 592300.6706349207,
       "y": 421.83333333333326
-    },
-    {
-      "id": "m5lbh8qn5",
-      "name": "Wa Bobi",
-      "gender": "female",
-      "birthDate": "",
-      "x": 591728.6706349207,
-      "y": 244.33333333333323
     },
     {
       "id": "s18x5enc8",
       "name": "Raul",
       "gender": "male",
       "birthDate": "",
-      "x": 591496.1706349207,
+      "x": 590623.1706349207,
       "y": 404.33333333333326
     },
     {
@@ -3103,7 +3095,7 @@
       "name": "La Meja",
       "gender": "male",
       "birthDate": "",
-      "x": 590913.1150793652,
+      "x": 590040.1150793652,
       "y": -104.55555555555566
     },
     {
@@ -3111,7 +3103,7 @@
       "name": "Wa Iba",
       "gender": "female",
       "birthDate": "",
-      "x": 591125.6150793652,
+      "x": 590252.6150793652,
       "y": -103.30555555555566
     },
     {
@@ -3119,7 +3111,7 @@
       "name": "La Tobone",
       "gender": "male",
       "birthDate": "",
-      "x": 590913.1150793652,
+      "x": 590040.1150793652,
       "y": -264.55555555555566
     },
     {
@@ -3127,7 +3119,7 @@
       "name": "Istri La Tobone",
       "gender": "female",
       "birthDate": "",
-      "x": 591113.1150793652,
+      "x": 590240.1150793652,
       "y": -264.55555555555566
     },
     {
@@ -3135,7 +3127,7 @@
       "name": "La Wesa",
       "gender": "male",
       "birthDate": "",
-      "x": 39199.5,
+      "x": 24569.5,
       "y": -160
     },
     {
@@ -3143,7 +3135,7 @@
       "name": "Wa Aisa",
       "gender": "female",
       "birthDate": "",
-      "x": 38029.5,
+      "x": 23874.5,
       "y": 0
     },
     {
@@ -3151,7 +3143,7 @@
       "name": "Wa Aera",
       "gender": "female",
       "birthDate": "",
-      "x": 38965.5,
+      "x": 24430.5,
       "y": 0
     },
     {
@@ -3159,7 +3151,7 @@
       "name": "La Gaba",
       "gender": "male",
       "birthDate": "",
-      "x": 40135.5,
+      "x": 25125.5,
       "y": 0
     },
     {
@@ -3167,7 +3159,7 @@
       "name": "La Maenu",
       "gender": "male",
       "birthDate": "",
-      "x": 39199.5,
+      "x": 24569.5,
       "y": 0
     },
     {
@@ -3175,7 +3167,7 @@
       "name": "Wa Riamu",
       "gender": "female",
       "birthDate": "",
-      "x": 38380.5,
+      "x": 24083,
       "y": 160
     },
     {
@@ -3183,7 +3175,7 @@
       "name": "Wa Karia",
       "gender": "female",
       "birthDate": "",
-      "x": 38965.5,
+      "x": 24430.5,
       "y": 160
     },
     {
@@ -3191,7 +3183,7 @@
       "name": "Laasi",
       "gender": "male",
       "birthDate": "",
-      "x": 39433.5,
+      "x": 24708.5,
       "y": 160
     },
     {
@@ -3199,7 +3191,7 @@
       "name": "Habibi",
       "gender": "male",
       "birthDate": "",
-      "x": 39901.5,
+      "x": 24986.5,
       "y": 160
     },
     {
@@ -3207,7 +3199,7 @@
       "name": "Ld. Rasi",
       "gender": "male",
       "birthDate": "",
-      "x": 38614.5,
+      "x": 24222,
       "y": 160
     },
     {
@@ -3215,7 +3207,7 @@
       "name": "Wa Lili",
       "gender": "female",
       "birthDate": "",
-      "x": 38263.5,
+      "x": 24013.5,
       "y": 320
     },
     {
@@ -3223,7 +3215,7 @@
       "name": "Uri",
       "gender": "male",
       "birthDate": "",
-      "x": 38497.5,
+      "x": 24152.5,
       "y": 320
     },
     {
@@ -3231,7 +3223,7 @@
       "name": "Ramadia",
       "gender": "female",
       "birthDate": "",
-      "x": 38731.5,
+      "x": 24291.5,
       "y": 320
     },
     {
@@ -3239,7 +3231,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 39199.5,
+      "x": 24569.5,
       "y": 160
     },
     {
@@ -3247,7 +3239,7 @@
       "name": "Dewi",
       "gender": "female",
       "birthDate": "",
-      "x": 38965.5,
+      "x": 24430.5,
       "y": 320
     },
     {
@@ -3255,7 +3247,7 @@
       "name": "Anak Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 39199.5,
+      "x": 24569.5,
       "y": 320
     },
     {
@@ -3263,7 +3255,7 @@
       "name": "Pasangan Baru",
       "gender": "female",
       "birthDate": "",
-      "x": 39667.5,
+      "x": 24847.5,
       "y": 160
     },
     {
@@ -3271,7 +3263,7 @@
       "name": "Putra",
       "gender": "male",
       "birthDate": "",
-      "x": 39550.5,
+      "x": 24778,
       "y": 320
     },
     {
@@ -3279,7 +3271,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 43528.5,
+      "x": 27141,
       "y": -480
     },
     {
@@ -3287,7 +3279,7 @@
       "name": "La Batiani",
       "gender": "male",
       "birthDate": "",
-      "x": 42826.5,
+      "x": 26724,
       "y": -320
     },
     {
@@ -3295,7 +3287,7 @@
       "name": "Wa Bebe",
       "gender": "female",
       "birthDate": "",
-      "x": 44815.5,
+      "x": 27905.5,
       "y": -320
     },
     {
@@ -3303,7 +3295,7 @@
       "name": "La Rai",
       "gender": "male",
       "birthDate": "",
-      "x": 45283.5,
+      "x": 28183.5,
       "y": -160
     },
     {
@@ -3311,7 +3303,7 @@
       "name": "Wa Haba",
       "gender": "female",
       "birthDate": "",
-      "x": 43060.5,
+      "x": 26863,
       "y": -320
     },
     {
@@ -3319,7 +3311,7 @@
       "name": "La Kawa",
       "gender": "male",
       "birthDate": "",
-      "x": 41305.5,
+      "x": 25820.5,
       "y": -160
     },
     {
@@ -3327,7 +3319,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 45049.5,
+      "x": 28044.5,
       "y": -320
     },
     {
@@ -3335,7 +3327,7 @@
       "name": "Anak Baru",
       "gender": "other",
       "birthDate": "",
-      "x": 44932.5,
+      "x": 27975,
       "y": -160
     },
     {
@@ -3343,7 +3335,7 @@
       "name": "La Oge",
       "gender": "male",
       "birthDate": "",
-      "x": 41539.5,
+      "x": 25959.5,
       "y": -160
     },
     {
@@ -3351,7 +3343,7 @@
       "name": "La Hiwu",
       "gender": "male",
       "birthDate": "",
-      "x": 42007.5,
+      "x": 26237.5,
       "y": -160
     },
     {
@@ -3359,7 +3351,7 @@
       "name": "Lande",
       "gender": "male",
       "birthDate": "",
-      "x": 42241.5,
+      "x": 26376.5,
       "y": -160
     },
     {
@@ -3367,7 +3359,7 @@
       "name": "La Tani",
       "gender": "male",
       "birthDate": "",
-      "x": 42475.5,
+      "x": 26515.5,
       "y": -160
     },
     {
@@ -3375,7 +3367,7 @@
       "name": "La Maega",
       "gender": "male",
       "birthDate": "",
-      "x": 43060.5,
+      "x": 26863,
       "y": -160
     },
     {
@@ -3383,7 +3375,7 @@
       "name": "La Munai",
       "gender": "male",
       "birthDate": "",
-      "x": 43879.5,
+      "x": 27349.5,
       "y": -160
     },
     {
@@ -3391,7 +3383,7 @@
       "name": "La Dahima",
       "gender": "male",
       "birthDate": "",
-      "x": 44113.5,
+      "x": 27488.5,
       "y": -160
     },
     {
@@ -3399,7 +3391,7 @@
       "name": "Wa Umae",
       "gender": "female",
       "birthDate": "",
-      "x": 44347.5,
+      "x": 27627.5,
       "y": -160
     },
     {
@@ -3407,7 +3399,7 @@
       "name": "Wa Naima",
       "gender": "female",
       "birthDate": "",
-      "x": 44581.5,
+      "x": 27766.5,
       "y": -160
     },
     {
@@ -3415,7 +3407,7 @@
       "name": "Wa Kopi",
       "gender": "female",
       "birthDate": "",
-      "x": 41773.5,
+      "x": 26098.5,
       "y": -160
     },
     {
@@ -3423,7 +3415,7 @@
       "name": "La Mantena",
       "gender": "male",
       "birthDate": "",
-      "x": 41656.5,
+      "x": 26029,
       "y": 0
     },
     {
@@ -3431,7 +3423,7 @@
       "name": "Wa Nipi",
       "gender": "female",
       "birthDate": "",
-      "x": 43294.5,
+      "x": 27002,
       "y": -160
     },
     {
@@ -3439,7 +3431,7 @@
       "name": "La  Ngkaali",
       "gender": "male",
       "birthDate": "",
-      "x": 58855.5,
+      "x": 36245.5,
       "y": -800
     },
     {
@@ -3447,7 +3439,7 @@
       "name": "Wa Ndoke",
       "gender": "female",
       "birthDate": "",
-      "x": 58504.5,
+      "x": 36037,
       "y": -640
     },
     {
@@ -3455,7 +3447,7 @@
       "name": "Wa Rimu",
       "gender": "female",
       "birthDate": "",
-      "x": 62365.5,
+      "x": 38330.5,
       "y": -640
     },
     {
@@ -3463,7 +3455,7 @@
       "name": "La Saidi",
       "gender": "male",
       "birthDate": "",
-      "x": 58738.5,
+      "x": 36176,
       "y": -640
     },
     {
@@ -3471,7 +3463,7 @@
       "name": "Wa Kaebo",
       "gender": "female",
       "birthDate": "",
-      "x": 58504.5,
+      "x": 36037,
       "y": -480
     },
     {
@@ -3479,7 +3471,7 @@
       "name": "La Dalili",
       "gender": "male",
       "birthDate": "",
-      "x": 58738.5,
+      "x": 36176,
       "y": -480
     },
     {
@@ -3487,7 +3479,7 @@
       "name": "Wa Gu",
       "gender": "female",
       "birthDate": "",
-      "x": 55111.5,
+      "x": 34021.5,
       "y": -320
     },
     {
@@ -3495,7 +3487,7 @@
       "name": "Wa Sahari",
       "gender": "female",
       "birthDate": "",
-      "x": 55345.5,
+      "x": 34160.5,
       "y": -320
     },
     {
@@ -3503,7 +3495,7 @@
       "name": "Wa Afia",
       "gender": "female",
       "birthDate": "",
-      "x": 55579.5,
+      "x": 34299.5,
       "y": -320
     },
     {
@@ -3511,7 +3503,7 @@
       "name": "La Maeta",
       "gender": "male",
       "birthDate": "",
-      "x": 55813.5,
+      "x": 34438.5,
       "y": -320
     },
     {
@@ -3519,7 +3511,7 @@
       "name": "La Asiri",
       "gender": "male",
       "birthDate": "",
-      "x": 58855.5,
+      "x": 36245.5,
       "y": -320
     },
     {
@@ -3527,7 +3519,7 @@
       "name": "La Saadi",
       "gender": "male",
       "birthDate": "",
-      "x": 62131.5,
+      "x": 38191.5,
       "y": -320
     },
     {
@@ -3535,7 +3527,7 @@
       "name": "Wa Saada",
       "gender": "female",
       "birthDate": "",
-      "x": 57217.5,
+      "x": 35272.5,
       "y": -320,
       "childOrder": "3"
     },
@@ -3544,7 +3536,7 @@
       "name": "La Huse",
       "gender": "male",
       "birthDate": "",
-      "x": 56515.5,
+      "x": 34855.5,
       "y": -160,
       "childOrder": 1
     },
@@ -3553,7 +3545,7 @@
       "name": "Wa NaatiBaru",
       "gender": "female",
       "birthDate": "",
-      "x": 58621.5,
+      "x": 36106.5,
       "y": -320
     },
     {
@@ -3561,7 +3553,7 @@
       "name": "Anak Baru",
       "gender": "other",
       "birthDate": "",
-      "x": 58621.5,
+      "x": 36106.5,
       "y": -160
     },
     {
@@ -3569,7 +3561,7 @@
       "name": "Wa Saambe",
       "gender": "female",
       "birthDate": "",
-      "x": 60493.5,
+      "x": 37218.5,
       "y": -320,
       "childOrder": "4"
     },
@@ -3578,7 +3570,7 @@
       "name": "Nafira",
       "gender": "female",
       "birthDate": "",
-      "x": 59674.5,
+      "x": 36732,
       "y": -160
     },
     {
@@ -3586,7 +3578,7 @@
       "name": "La Angku",
       "gender": "male",
       "birthDate": "",
-      "x": 57451.5,
+      "x": 35411.5,
       "y": -160,
       "childOrder": 2
     },
@@ -3595,7 +3587,7 @@
       "name": "La Asimu",
       "gender": "male",
       "birthDate": "",
-      "x": 57685.5,
+      "x": 35550.5,
       "y": -160,
       "childOrder": 3
     },
@@ -3604,7 +3596,7 @@
       "name": "Sahima",
       "gender": "female",
       "birthDate": "",
-      "x": 57919.5,
+      "x": 35689.5,
       "y": -160,
       "childOrder": 4
     },
@@ -3613,7 +3605,7 @@
       "name": "Daniifa",
       "gender": "female",
       "birthDate": "",
-      "x": 58153.5,
+      "x": 35828.5,
       "y": -160,
       "childOrder": 5
     },
@@ -3622,7 +3614,7 @@
       "name": "La Ronta",
       "gender": "male",
       "birthDate": "",
-      "x": 58387.5,
+      "x": 35967.5,
       "y": -160,
       "childOrder": 6
     },
@@ -3631,7 +3623,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 50431.5,
+      "x": 31241.5,
       "y": -800
     },
     {
@@ -3639,7 +3631,7 @@
       "name": "Wa Hatamu",
       "gender": "female",
       "birthDate": "",
-      "x": 50197.5,
+      "x": 31102.5,
       "y": -640
     },
     {
@@ -3647,7 +3639,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 50431.5,
+      "x": 31241.5,
       "y": -640
     },
     {
@@ -3655,7 +3647,7 @@
       "name": "Hadisi",
       "gender": "male",
       "birthDate": "",
-      "x": 50197.5,
+      "x": 31102.5,
       "y": -480
     },
     {
@@ -3663,7 +3655,7 @@
       "name": "Wa Ode One(Karuku)",
       "gender": "female",
       "birthDate": "",
-      "x": 50431.5,
+      "x": 31241.5,
       "y": -480
     },
     {
@@ -3671,7 +3663,7 @@
       "name": "La Gampi",
       "gender": "other",
       "birthDate": "",
-      "x": 50197.5,
+      "x": 31102.5,
       "y": -320
     },
     {
@@ -3679,7 +3671,7 @@
       "name": "Wa Muna",
       "gender": "male",
       "birthDate": "",
-      "x": 50431.5,
+      "x": 31241.5,
       "y": -320,
       "childOrder": "2"
     },
@@ -3688,7 +3680,7 @@
       "name": "Wa Ifa",
       "gender": "female",
       "birthDate": "",
-      "x": 52537.5,
+      "x": 32492.5,
       "y": -160,
       "childOrder": "1"
     },
@@ -3697,7 +3689,7 @@
       "name": "Yunus Hadisi",
       "gender": "male",
       "birthDate": "",
-      "x": 53824.5,
+      "x": 33257,
       "y": -160,
       "childOrder": "2"
     },
@@ -3706,7 +3698,7 @@
       "name": "Wa Asea",
       "gender": "female",
       "birthDate": "",
-      "x": 54409.5,
+      "x": 33604.5,
       "y": -160,
       "childOrder": "3"
     },
@@ -3715,7 +3707,7 @@
       "name": "La Dosi",
       "gender": "male",
       "birthDate": "",
-      "x": 54877.5,
+      "x": 33882.5,
       "y": -160,
       "childOrder": "5"
     },
@@ -3724,7 +3716,7 @@
       "name": "La Kauhi",
       "gender": "male",
       "birthDate": "",
-      "x": 52771.5,
+      "x": 32631.5,
       "y": -160
     },
     {
@@ -3732,7 +3724,7 @@
       "name": "La Ampi",
       "gender": "male",
       "birthDate": "",
-      "x": 51835.5,
+      "x": 32075.5,
       "y": 0
     },
     {
@@ -3740,7 +3732,7 @@
       "name": "Alima",
       "gender": "female",
       "birthDate": "",
-      "x": 52654.5,
+      "x": 32562,
       "y": 0
     },
     {
@@ -3748,7 +3740,7 @@
       "name": "La Azi",
       "gender": "male",
       "birthDate": "",
-      "x": 52888.5,
+      "x": 32701,
       "y": 0
     },
     {
@@ -3756,7 +3748,7 @@
       "name": "Wa Mimi",
       "gender": "female",
       "birthDate": "",
-      "x": 52069.5,
+      "x": 32214.5,
       "y": 160
     },
     {
@@ -3764,7 +3756,7 @@
       "name": "Wa Kaiko",
       "gender": "female",
       "birthDate": "",
-      "x": 52303.5,
+      "x": 32353.5,
       "y": 160
     },
     {
@@ -3772,7 +3764,7 @@
       "name": "Wa Duudu",
       "gender": "female",
       "birthDate": "",
-      "x": 52537.5,
+      "x": 32492.5,
       "y": 160
     },
     {
@@ -3780,7 +3772,7 @@
       "name": "Kama",
       "gender": "male",
       "birthDate": "",
-      "x": 52771.5,
+      "x": 32631.5,
       "y": 160
     },
     {
@@ -3788,7 +3780,7 @@
       "name": "Tino",
       "gender": "male",
       "birthDate": "",
-      "x": 53005.5,
+      "x": 32770.5,
       "y": 160
     },
     {
@@ -3796,7 +3788,7 @@
       "name": "Wa Fia",
       "gender": "female",
       "birthDate": "",
-      "x": 53239.5,
+      "x": 32909.5,
       "y": 160
     },
     {
@@ -3804,7 +3796,7 @@
       "name": "Eang",
       "gender": "male",
       "birthDate": "",
-      "x": 53473.5,
+      "x": 33048.5,
       "y": 160
     },
     {
@@ -3812,7 +3804,7 @@
       "name": "Hamima Bongkois",
       "gender": "female",
       "birthDate": "",
-      "x": 54058.5,
+      "x": 33396,
       "y": -160
     },
     {
@@ -3820,7 +3812,7 @@
       "name": "Muspirah Hadisi",
       "gender": "female",
       "birthDate": "",
-      "x": 53824.5,
+      "x": 33257,
       "y": 0
     },
     {
@@ -3828,7 +3820,7 @@
       "name": "Mulyadi",
       "gender": "male",
       "birthDate": "",
-      "x": 54058.5,
+      "x": 33396,
       "y": 0
     },
     {
@@ -3836,7 +3828,7 @@
       "name": "Nurul Izzah M.",
       "gender": "female",
       "birthDate": "",
-      "x": 53707.5,
+      "x": 33187.5,
       "y": 160
     },
     {
@@ -3844,7 +3836,7 @@
       "name": "Siti Fatimah M.",
       "gender": "female",
       "birthDate": "",
-      "x": 53941.5,
+      "x": 33326.5,
       "y": 160
     },
     {
@@ -3852,7 +3844,7 @@
       "name": "Muh. Iskandar Fathuh M.",
       "gender": "male",
       "birthDate": "",
-      "x": 54175.5,
+      "x": 33465.5,
       "y": 160
     },
     {
@@ -3860,7 +3852,7 @@
       "name": "La Saala",
       "gender": "male",
       "birthDate": "",
-      "x": 54643.5,
+      "x": 33743.5,
       "y": -160
     },
     {
@@ -3868,7 +3860,7 @@
       "name": "La Nane",
       "gender": "male",
       "birthDate": "",
-      "x": 681431.5595238096,
+      "x": 680558.5595238096,
       "y": 62.5
     },
     {
@@ -3876,7 +3868,7 @@
       "name": "La Salanti (Maolu)",
       "gender": "male",
       "birthDate": "",
-      "x": 681431.5595238096,
+      "x": 680558.5595238096,
       "y": -97.5
     },
     {
@@ -3884,7 +3876,7 @@
       "name": "Wa Mbeho",
       "gender": "female",
       "birthDate": "",
-      "x": 681631.5595238096,
+      "x": 680758.5595238096,
       "y": -97.5
     },
     {
@@ -3892,7 +3884,7 @@
       "name": "Wa Abudu",
       "gender": "female",
       "birthDate": "",
-      "x": 681678.7023809524,
+      "x": 680805.7023809524,
       "y": 59.64285714285711
     },
     {
@@ -3900,7 +3892,7 @@
       "name": "La Faani",
       "gender": "male",
       "birthDate": "",
-      "x": 681410.0595238096,
+      "x": 680537.0595238096,
       "y": 222.5,
       "childOrder": "1"
     },
@@ -3909,7 +3901,7 @@
       "name": "La Maasi",
       "gender": "male",
       "birthDate": "",
-      "x": 681693.0595238096,
+      "x": 680820.0595238096,
       "y": 219,
       "childOrder": 5
     },
@@ -3918,7 +3910,7 @@
       "name": "Wa Ela",
       "gender": "female",
       "birthDate": "",
-      "x": 238.5,
+      "x": 1426,
       "y": -160,
       "childOrder": "4"
     },
@@ -3927,7 +3919,7 @@
       "name": "La Mbahu",
       "gender": "male",
       "birthDate": "",
-      "x": 495171.380952381,
+      "x": 494298.380952381,
       "y": -162
     },
     {
@@ -3935,7 +3927,7 @@
       "name": "Wa Tipo",
       "gender": "female",
       "birthDate": "",
-      "x": 494978.380952381,
+      "x": 494105.380952381,
       "y": 0
     },
     {
@@ -3943,7 +3935,7 @@
       "name": "Darmin",
       "gender": "male",
       "birthDate": "",
-      "x": 61195.5,
+      "x": 37635.5,
       "y": -160
     },
     {
@@ -3951,7 +3943,7 @@
       "name": "La Baisa",
       "gender": "male",
       "birthDate": "",
-      "x": 59908.5,
+      "x": 36871,
       "y": -160
     },
     {
@@ -3959,7 +3951,7 @@
       "name": "Bahtiar",
       "gender": "male",
       "birthDate": "",
-      "x": 59206.5,
+      "x": 36454,
       "y": 0,
       "childOrder": 1
     },
@@ -3968,7 +3960,7 @@
       "name": "Nurliyani",
       "gender": "female",
       "birthDate": "",
-      "x": 59791.5,
+      "x": 36801.5,
       "y": 0,
       "childOrder": 2
     },
@@ -3977,7 +3969,7 @@
       "name": "Nurfitri",
       "gender": "female",
       "birthDate": "",
-      "x": 60259.5,
+      "x": 37079.5,
       "y": 0,
       "childOrder": 3
     },
@@ -3986,7 +3978,7 @@
       "name": "Nurleniawati",
       "gender": "female",
       "birthDate": "",
-      "x": 60493.5,
+      "x": 37218.5,
       "y": 0,
       "childOrder": 4
     },
@@ -3995,7 +3987,7 @@
       "name": "Herlina Efendy",
       "gender": "female",
       "birthDate": "",
-      "x": 59440.5,
+      "x": 36593,
       "y": 0
     },
     {
@@ -4003,7 +3995,7 @@
       "name": "Azka Farhan S.",
       "gender": "male",
       "birthDate": "",
-      "x": 59089.5,
+      "x": 36384.5,
       "y": 160,
       "childOrder": 1
     },
@@ -4012,7 +4004,7 @@
       "name": "Najwa Tsabitah S.",
       "gender": "female",
       "birthDate": "",
-      "x": 59323.5,
+      "x": 36523.5,
       "y": 160,
       "childOrder": 2
     },
@@ -4021,7 +4013,7 @@
       "name": "Ayyash Syahreza S.",
       "gender": "female",
       "birthDate": "",
-      "x": 59557.5,
+      "x": 36662.5,
       "y": 160,
       "childOrder": 3
     },
@@ -4030,7 +4022,7 @@
       "name": "Saudin",
       "gender": "male",
       "birthDate": "",
-      "x": 60025.5,
+      "x": 36940.5,
       "y": 0
     },
     {
@@ -4038,7 +4030,7 @@
       "name": "Caesar Alfatih Addien",
       "gender": "male",
       "birthDate": "",
-      "x": 59791.5,
+      "x": 36801.5,
       "y": 160
     },
     {
@@ -4046,7 +4038,7 @@
       "name": "Keysha Almira Addien",
       "gender": "female",
       "birthDate": "",
-      "x": 60025.5,
+      "x": 36940.5,
       "y": 160
     },
     {
@@ -4054,7 +4046,7 @@
       "name": "Wa Ode Masriah",
       "gender": "female",
       "birthDate": "",
-      "x": 61429.5,
+      "x": 37774.5,
       "y": -160
     },
     {
@@ -4062,7 +4054,7 @@
       "name": "Nur Dasmaniar Darmin A",
       "gender": "female",
       "birthDate": "",
-      "x": 60727.5,
+      "x": 37357.5,
       "y": 0
     },
     {
@@ -4070,7 +4062,7 @@
       "name": "Abdul Malik Darmin A",
       "gender": "male",
       "birthDate": "",
-      "x": 60961.5,
+      "x": 37496.5,
       "y": 0
     },
     {
@@ -4078,7 +4070,7 @@
       "name": "Achmad Yusuf Darmin A",
       "gender": "male",
       "birthDate": "",
-      "x": 61429.5,
+      "x": 37774.5,
       "y": 0
     },
     {
@@ -4086,7 +4078,7 @@
       "name": "Nur Suci Putri",
       "gender": "female",
       "birthDate": "",
-      "x": 61897.5,
+      "x": 38052.5,
       "y": 0
     },
     {
@@ -4094,7 +4086,7 @@
       "name": "Maghfira Mayangsari",
       "gender": "female",
       "birthDate": "",
-      "x": 61195.5,
+      "x": 37635.5,
       "y": 0
     },
     {
@@ -4102,7 +4094,7 @@
       "name": "Laili Rohmilia",
       "gender": "female",
       "birthDate": "",
-      "x": 61663.5,
+      "x": 37913.5,
       "y": 0
     },
     {
@@ -4110,7 +4102,7 @@
       "name": "Ayana Jeehan",
       "gender": "male",
       "birthDate": "",
-      "x": 61546.5,
+      "x": 37844,
       "y": 160
     },
     {
@@ -4118,7 +4110,7 @@
       "name": "La Mantena",
       "gender": "male",
       "birthDate": "",
-      "x": 495188.380952381,
+      "x": 494315.380952381,
       "y": 0
     },
     {
@@ -4126,7 +4118,7 @@
       "name": "Salmatia",
       "gender": "female",
       "birthDate": "",
-      "x": 494926.9523809524,
+      "x": 494053.9523809524,
       "y": 150
     },
     {
@@ -4134,7 +4126,7 @@
       "name": "Zulfiati",
       "gender": "female",
       "birthDate": "",
-      "x": 495379.80952380964,
+      "x": 494506.80952380964,
       "y": 157.14285714285714
     },
     {
@@ -4142,7 +4134,7 @@
       "name": "La Ati",
       "gender": "male",
       "birthDate": "",
-      "x": 495159.8095238096,
+      "x": 494286.8095238096,
       "y": 152.85714285714286
     },
     {
@@ -4150,7 +4142,7 @@
       "name": "Atika Salmawati",
       "gender": "female",
       "birthDate": "",
-      "x": 494978.380952381,
+      "x": 494105.380952381,
       "y": 320
     },
     {
@@ -4158,7 +4150,7 @@
       "name": "Apliliyan Muzakir Putra",
       "gender": "male",
       "birthDate": "",
-      "x": 495198.380952381,
+      "x": 494325.380952381,
       "y": 318.57142857142856
     },
     {
@@ -4166,7 +4158,7 @@
       "name": "Pasangan Baru",
       "gender": "male",
       "birthDate": "",
-      "x": 495589.80952380964,
+      "x": 494716.80952380964,
       "y": 157.14285714285714
     },
     {
@@ -4174,7 +4166,7 @@
       "name": "Zainudin FK",
       "gender": "male",
       "birthDate": "",
-      "x": 495408.38095238106,
+      "x": 494535.38095238106,
       "y": 315.71428571428567
     },
     {
@@ -4182,7 +4174,7 @@
       "name": "Fakri AK",
       "gender": "male",
       "birthDate": "",
-      "x": 495602.6666666668,
+      "x": 494729.6666666668,
       "y": 315.71428571428567
     },
     {
@@ -4190,7 +4182,7 @@
       "name": "Khaliza DZ",
       "gender": "female",
       "birthDate": "",
-      "x": 495794.0952380953,
+      "x": 494921.0952380953,
       "y": 317.1428571428571
     },
     {
@@ -4198,7 +4190,7 @@
       "name": "Nahda Z",
       "gender": "female",
       "birthDate": "",
-      "x": 495989.80952380964,
+      "x": 495116.80952380964,
       "y": 315.71428571428567
     },
     {
@@ -4206,7 +4198,7 @@
       "name": "Annora GA",
       "gender": "female",
       "birthDate": "",
-      "x": 496194.0952380954,
+      "x": 495321.0952380954,
       "y": 314.2857142857143
     },
     {
@@ -4214,7 +4206,7 @@
       "name": "Wa Ide",
       "gender": "female",
       "birthDate": "",
-      "x": 56749.5,
+      "x": 34994.5,
       "y": -160
     },
     {
@@ -4222,7 +4214,7 @@
       "name": "Wa Anta",
       "gender": "female",
       "birthDate": "",
-      "x": 56047.5,
+      "x": 34577.5,
       "y": 0
     },
     {
@@ -4230,7 +4222,7 @@
       "name": "Wa Dia",
       "gender": "female",
       "birthDate": "",
-      "x": 56281.5,
+      "x": 34716.5,
       "y": 0
     },
     {
@@ -4238,7 +4230,7 @@
       "name": "La Ara",
       "gender": "male",
       "birthDate": "",
-      "x": 56515.5,
+      "x": 34855.5,
       "y": 0
     },
     {
@@ -4246,7 +4238,7 @@
       "name": "Wa Ana",
       "gender": "female",
       "birthDate": "",
-      "x": 56749.5,
+      "x": 34994.5,
       "y": 0
     },
     {
@@ -4254,7 +4246,7 @@
       "name": "La Eke",
       "gender": "male",
       "birthDate": "",
-      "x": 56983.5,
+      "x": 35133.5,
       "y": 0
     },
     {
@@ -4262,8 +4254,1091 @@
       "name": "La Neene",
       "gender": "male",
       "birthDate": "",
-      "x": 57217.5,
+      "x": 35272.5,
       "y": 0
+    },
+    {
+      "id": "k0aw7o4b3",
+      "name": "La Masuru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25474.5,
+      "y": -160
+    },
+    {
+      "id": "3qyd09wbk",
+      "name": "Wa Daida",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25036.722229003906,
+      "y": -1.111114501953125,
+      "childOrder": "1"
+    },
+    {
+      "id": "nskvggj89",
+      "name": "La Ikola",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25264.5,
+      "y": 0,
+      "childOrder": "2"
+    },
+    {
+      "id": "4m6tx6fp5",
+      "name": "Wa Tariina",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25264.5,
+      "y": 0,
+      "childOrder": "3"
+    },
+    {
+      "id": "ibsk9mz0b",
+      "name": "Wa Ene",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25265.611083984375,
+      "y": 0,
+      "childOrder": "4"
+    },
+    {
+      "id": "3yddo40zi",
+      "name": "Wa Lida",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25262.27783203125,
+      "y": -3.33331298828125,
+      "childOrder": "5"
+    },
+    {
+      "id": "u4qpw8ow7",
+      "name": "Wa Buke",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25263.38885498047,
+      "y": -1.111114501953125,
+      "childOrder": "6"
+    },
+    {
+      "id": "wr9qwarsm",
+      "name": "La Mau",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25247.83331298828,
+      "y": 0
+    },
+    {
+      "id": "7difu3efn",
+      "name": "Doule",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25037.83331298828,
+      "y": 158.888916015625,
+      "childOrder": "3"
+    },
+    {
+      "id": "sxnp1ausd",
+      "name": "La Edi",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25037.83331298828,
+      "y": 158.88885498046875,
+      "childOrder": "4"
+    },
+    {
+      "id": "ldf7m8n3z",
+      "name": "Arafi",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25037.83331298828,
+      "y": 160,
+      "childOrder": "5"
+    },
+    {
+      "id": "u778nk8ee",
+      "name": "La Dudi",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25035.611083984375,
+      "y": 160,
+      "childOrder": "1"
+    },
+    {
+      "id": "dyofmwl50",
+      "name": "Wa Bobi3",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25036.722229003906,
+      "y": 160,
+      "childOrder": "2"
+    },
+    {
+      "id": "g687sx7p6",
+      "name": "Pasangan Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25245.611083984375,
+      "y": 160
+    },
+    {
+      "id": "pdh565dhn",
+      "name": "Irfan",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25035.611083984375,
+      "y": 320,
+      "childOrder": "1"
+    },
+    {
+      "id": "u1lft7f91",
+      "name": "Anak Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25035.611083984375,
+      "y": 320,
+      "childOrder": "2"
+    },
+    {
+      "id": "gxwdssmni",
+      "name": "Anak Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25035.611083984375,
+      "y": 320,
+      "childOrder": "3"
+    },
+    {
+      "id": "5sm4taeaj",
+      "name": "Pasangan Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25247.83331298828,
+      "y": 160
+    },
+    {
+      "id": "l148vacun",
+      "name": "Anak Baru",
+      "gender": "other",
+      "birthDate": "",
+      "x": 25037.83331298828,
+      "y": 320
+    },
+    {
+      "id": "xsl5nqcmn",
+      "name": "Wa Maana",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25474.5,
+      "y": 0
+    },
+    {
+      "id": "xm2whpyc8",
+      "name": "Ikman",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25264.5,
+      "y": 160,
+      "childOrder": "1"
+    },
+    {
+      "id": "y7m3y042z",
+      "name": "Irmani",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25265.611083984375,
+      "y": 160,
+      "childOrder": "2"
+    },
+    {
+      "id": "j44rlknys",
+      "name": "Faisal",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25264.5,
+      "y": 160,
+      "childOrder": "3"
+    },
+    {
+      "id": "di0z8vyad",
+      "name": "La Ntanga",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25474.5,
+      "y": 0
+    },
+    {
+      "id": "3js8d5kkl",
+      "name": "Wa Sariati",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25263.388916015625,
+      "y": 160
+    },
+    {
+      "id": "bky5b0dqz",
+      "name": "Pasangan Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25473.388916015625,
+      "y": 160
+    },
+    {
+      "id": "y8nj0qrsc",
+      "name": "Anak Baru",
+      "gender": "other",
+      "birthDate": "",
+      "x": 25263.388916015625,
+      "y": 320
+    },
+    {
+      "id": "huvxxgmko",
+      "name": "La Ini",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25475.611083984375,
+      "y": 0
+    },
+    {
+      "id": "8nooj2f8h",
+      "name": "Wa Sera",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25264.5,
+      "y": 160,
+      "childOrder": "1"
+    },
+    {
+      "id": "dmkza3ub1",
+      "name": "Suliha",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25265.611083984375,
+      "y": 160,
+      "childOrder": "2"
+    },
+    {
+      "id": "zctq4f127",
+      "name": "Laika",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25265.611083984375,
+      "y": 160,
+      "childOrder": "3"
+    },
+    {
+      "id": "fto7mqz4u",
+      "name": "Ario",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25263.388916015625,
+      "y": 158.88885498046875,
+      "childOrder": "4"
+    },
+    {
+      "id": "k1gkevnkn",
+      "name": "La Mawo",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25473.389038085938,
+      "y": -1.11114501953125,
+      "childOrder": "1"
+    },
+    {
+      "id": "lx55g6pm3",
+      "name": "La Mira",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25264.500122070312,
+      "y": 160,
+      "childOrder": "1"
+    },
+    {
+      "id": "33gih1ww1",
+      "name": "La Rano",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25264.500122070312,
+      "y": 160,
+      "childOrder": "2"
+    },
+    {
+      "id": "lhxg9sks3",
+      "name": "Wa Tonda",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25263.388916015625,
+      "y": 158.88888549804688,
+      "childOrder": "3"
+    },
+    {
+      "id": "gcugvg9po",
+      "name": "Anak Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25262.27783203125,
+      "y": 157.77780151367188
+    },
+    {
+      "id": "owzdtmhkc",
+      "name": "Pasangan Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25474.5,
+      "y": 0
+    },
+    {
+      "id": "1k02whsmr",
+      "name": "Ufi",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25264.5,
+      "y": 160,
+      "childOrder": "1"
+    },
+    {
+      "id": "hy9zl43sd",
+      "name": "Toni",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25265.611083984375,
+      "y": 160,
+      "childOrder": "2"
+    },
+    {
+      "id": "15djirbpo",
+      "name": "Suci",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25264.5,
+      "y": 160,
+      "childOrder": "3"
+    },
+    {
+      "id": "5w2kyh9na",
+      "name": "Pasangan Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 23806.5,
+      "y": -160
+    },
+    {
+      "id": "jcrc0j3gx",
+      "name": "Wa Nasira",
+      "gender": "female",
+      "birthDate": "",
+      "x": 23596.5,
+      "y": 0,
+      "childOrder": "3"
+    },
+    {
+      "id": "dbba4zzgz",
+      "name": "Halusu",
+      "gender": "male",
+      "birthDate": "",
+      "x": 23596.5,
+      "y": 0,
+      "childOrder": "4"
+    },
+    {
+      "id": "86z7gqerm",
+      "name": "Wa Rami",
+      "gender": "female",
+      "birthDate": "",
+      "x": 23595.388916015625,
+      "y": 0,
+      "childOrder": "1"
+    },
+    {
+      "id": "8uqb4h3c4",
+      "name": "La Haea",
+      "gender": "male",
+      "birthDate": "",
+      "x": 23595.388916015625,
+      "y": 0,
+      "childOrder": "2"
+    },
+    {
+      "id": "j2sjszraf",
+      "name": "Wa Ana",
+      "gender": "female",
+      "birthDate": "",
+      "x": 23945.5,
+      "y": -161.11114501953125
+    },
+    {
+      "id": "cypooqn0l",
+      "name": "Wa Hiya",
+      "gender": "female",
+      "birthDate": "",
+      "x": 23736.611206054688,
+      "y": -1.11114501953125,
+      "childOrder": "2"
+    },
+    {
+      "id": "g1xbph0qh",
+      "name": "Wa Ngkidi",
+      "gender": "female",
+      "birthDate": "",
+      "x": 23736.611083984375,
+      "y": -2.2222900390625,
+      "childOrder": "5"
+    },
+    {
+      "id": "7j4ksptf0",
+      "name": "La Iria",
+      "gender": "male",
+      "birthDate": "",
+      "x": 23735.5,
+      "y": -1.11114501953125,
+      "childOrder": "3"
+    },
+    {
+      "id": "vl9ntvw06",
+      "name": "Wa Ruwaya",
+      "gender": "female",
+      "birthDate": "",
+      "x": 23736.611206054688,
+      "y": -1.11114501953125,
+      "childOrder": "4"
+    },
+    {
+      "id": "ouvl1j57c",
+      "name": "La Angki",
+      "gender": "male",
+      "birthDate": "",
+      "x": 23735.5,
+      "y": -1.11114501953125,
+      "childOrder": "6"
+    },
+    {
+      "id": "ucpxsmxv4",
+      "name": "Wa Fahiya",
+      "gender": "female",
+      "birthDate": "",
+      "x": 23733.277770996094,
+      "y": -1.11114501953125,
+      "childOrder": "1"
+    },
+    {
+      "id": "a3yn72f43",
+      "name": "Pasangan Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 23944.38885498047,
+      "y": -1.11114501953125
+    },
+    {
+      "id": "1smbrmj52",
+      "name": "La Udi",
+      "gender": "male",
+      "birthDate": "",
+      "x": 23734.38885498047,
+      "y": 158.88885498046875
+    },
+    {
+      "id": "tvo5nktsb",
+      "name": "Wa Sahidi",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25776.22879233673,
+      "y": -309.8305242202932
+    },
+    {
+      "id": "yzk25ml6g",
+      "name": "La Maali",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": -160,
+      "childOrder": "2"
+    },
+    {
+      "id": "tvbbfhq01",
+      "name": "Wa Ntena",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": -160,
+      "childOrder": "3"
+    },
+    {
+      "id": "8kfziz1w0",
+      "name": "La Putu",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": -160,
+      "childOrder": "4"
+    },
+    {
+      "id": "qm3nz3kwp",
+      "name": "La Suku",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": -160,
+      "childOrder": "5"
+    },
+    {
+      "id": "sruftxh0z",
+      "name": "Wa Kuluhu",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": -160,
+      "childOrder": "6"
+    },
+    {
+      "id": "clwoxabru",
+      "name": "Wa Ine",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": -160,
+      "childOrder": "7"
+    },
+    {
+      "id": "qwuu94aym",
+      "name": "La Tili",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25752.5,
+      "y": -160
+    },
+    {
+      "id": "xlmpjb1zb",
+      "name": "Aslan",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25543.611206054688,
+      "y": 0,
+      "childOrder": "6"
+    },
+    {
+      "id": "n6j3lo96h",
+      "name": "Herlina",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": 0,
+      "childOrder": "7"
+    },
+    {
+      "id": "9jznov0yx",
+      "name": "Amina",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 0,
+      "childOrder": "1"
+    },
+    {
+      "id": "xtse8t0qz",
+      "name": "Ramli",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 0,
+      "childOrder": "2"
+    },
+    {
+      "id": "xkmp2xfu2",
+      "name": "Tami",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 0,
+      "childOrder": "3"
+    },
+    {
+      "id": "tvg4udzb0",
+      "name": "Katinu",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 0,
+      "childOrder": "4"
+    },
+    {
+      "id": "i3l5lkevr",
+      "name": "Gunawan",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 0,
+      "childOrder": "5"
+    },
+    {
+      "id": "tdatylnwv",
+      "name": "Pasangan Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25751.388793945312,
+      "y": 0
+    },
+    {
+      "id": "ru0xujrb0",
+      "name": "Adam",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 160,
+      "childOrder": "1"
+    },
+    {
+      "id": "y27vonenr",
+      "name": "Anak Baru",
+      "gender": "other",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 160
+    },
+    {
+      "id": "urvfh377n",
+      "name": "Anak Baru",
+      "gender": "other",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 160
+    },
+    {
+      "id": "y7ynw0ns9",
+      "name": "Anak Baru",
+      "gender": "other",
+      "birthDate": "",
+      "x": 25541.388793945312,
+      "y": 160
+    },
+    {
+      "id": "w89ifz82n",
+      "name": "Pasangan Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25752.5,
+      "y": -160
+    },
+    {
+      "id": "l0fi5jtcg",
+      "name": "La Siruhu",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": 0,
+      "childOrder": "1"
+    },
+    {
+      "id": "nym590t69",
+      "name": "La Hami",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": 0,
+      "childOrder": "2"
+    },
+    {
+      "id": "wgfyzxs3m",
+      "name": "La Poda",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25543.611083984375,
+      "y": 0,
+      "childOrder": "4"
+    },
+    {
+      "id": "bjgb66p9n",
+      "name": "Wa Dayanti",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25542.5,
+      "y": 0,
+      "childOrder": "3"
+    },
+    {
+      "id": "wn8hal963",
+      "name": "Pasangan Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 23583.761694256806,
+      "y": -316.0263998882181
+    },
+    {
+      "id": "hmplk2lwe",
+      "name": "La Daama",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -161.11111450195312,
+      "childOrder": "1"
+    },
+    {
+      "id": "r41rp61ra",
+      "name": "La Daini",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -161.11111450195312,
+      "childOrder": "2"
+    },
+    {
+      "id": "wpanjfrf6",
+      "name": "Pasangan Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25951.38885498047,
+      "y": -161.11111450195312
+    },
+    {
+      "id": "g0gux2zca",
+      "name": "La Pante",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -1.111114501953125
+    },
+    {
+      "id": "7slwl9tqt",
+      "name": "Pasangan Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 24849.863523680957,
+      "y": -319.41624066553265
+    },
+    {
+      "id": "hc3zoqdll",
+      "name": "La Ambo",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -161.11111450195312
+    },
+    {
+      "id": "175qhbw3l",
+      "name": "Pasangan Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -322.80603489061036
+    },
+    {
+      "id": "9h30kejou",
+      "name": "La Romusa",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25743.083728816888,
+      "y": -161.11111450195312,
+      "childOrder": "1"
+    },
+    {
+      "id": "kzfkc9yg4",
+      "name": "Wa Konte",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -161.11111450195312,
+      "childOrder": "2"
+    },
+    {
+      "id": "fedv5v27d",
+      "name": "Wa Uhi",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -161.11111450195312,
+      "childOrder": "3"
+    },
+    {
+      "id": "gzmuf3awr",
+      "name": "La Asa",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -162.80603489061036,
+      "childOrder": "4"
+    },
+    {
+      "id": "q4dfp0mlu",
+      "name": "Pasangan Baru",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25951.38885498047,
+      "y": -161.11111450195312
+    },
+    {
+      "id": "utq9kstve",
+      "name": "La Tongu",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25741.38885498047,
+      "y": -1.111114501953125
+    },
+    {
+      "id": "p5ck54a4c",
+      "name": "Wa Mbetde",
+      "gender": "female",
+      "birthDate": "",
+      "x": 12744.30512616358,
+      "y": -483.3897942250777
+    },
+    {
+      "id": "mrkm2ksqy",
+      "name": "Wa Saini",
+      "gender": "female",
+      "birthDate": "",
+      "x": 12746,
+      "y": -320,
+      "childOrder": "3"
+    },
+    {
+      "id": "u1j8tqy2o",
+      "name": "La Badila",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12744.30512616358,
+      "y": -321.69487383642047,
+      "childOrder": "1"
+    },
+    {
+      "id": "1qlww0wcp",
+      "name": "Wa Guhe",
+      "gender": "female",
+      "birthDate": "",
+      "x": 12742.610066118212,
+      "y": -321.69487383642047,
+      "childOrder": "2"
+    },
+    {
+      "id": "32q01fkb7",
+      "name": "Wa Endengi",
+      "gender": "female",
+      "birthDate": "",
+      "x": 12954.30512616358,
+      "y": -321.69487383642047
+    },
+    {
+      "id": "musz211kb",
+      "name": "La Mili",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12744.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "1"
+    },
+    {
+      "id": "dv002w0qj",
+      "name": "La Masa",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12954.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "2"
+    },
+    {
+      "id": "4wgho6ta3",
+      "name": "Wa Usa",
+      "gender": "female",
+      "birthDate": "",
+      "x": 12954.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "3"
+    },
+    {
+      "id": "k0v8l6uyi",
+      "name": "Wa Pinda",
+      "gender": "female",
+      "birthDate": "",
+      "x": 12954.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "4"
+    },
+    {
+      "id": "9zuaz1x5g",
+      "name": "La Puli",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12954.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "5"
+    },
+    {
+      "id": "34aha6y2p",
+      "name": "La Darmani",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12954.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "6"
+    },
+    {
+      "id": "0ds9gh64p",
+      "name": "La Kauma",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12954.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "7"
+    },
+    {
+      "id": "ajjnzpwjl",
+      "name": "La Panasa",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12954.30512616358,
+      "y": -321.69487383642047
+    },
+    {
+      "id": "scgnmpa60",
+      "name": "La Ngkaenu",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12744.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "2"
+    },
+    {
+      "id": "pdj7kocgm",
+      "name": "La Kandari",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12744.30512616358,
+      "y": -161.69487383642047,
+      "childOrder": "3"
+    },
+    {
+      "id": "pd2gx1tii",
+      "name": "La Kunu",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12746,
+      "y": -161.69487383642047,
+      "childOrder": "1"
+    },
+    {
+      "id": "4nvirzbur",
+      "name": "La Riawa",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12956,
+      "y": -320
+    },
+    {
+      "id": "a2fvgyf9l",
+      "name": "La Rahama",
+      "gender": "male",
+      "birthDate": "",
+      "x": 12746,
+      "y": -160,
+      "childOrder": "1"
+    },
+    {
+      "id": "95bkr4giz",
+      "name": "Wa Sahida",
+      "gender": "female",
+      "birthDate": "",
+      "x": 12746,
+      "y": -160,
+      "childOrder": "2"
+    },
+    {
+      "id": "72645qkb1",
+      "name": "Wa Ari",
+      "gender": "female",
+      "birthDate": "",
+      "x": 12746,
+      "y": -160,
+      "childOrder": "3"
+    },
+    {
+      "id": "nd5aw4zxd",
+      "name": "Wa Ana",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25891.5,
+      "y": -480
+    },
+    {
+      "id": "a29g20jrj",
+      "name": "La Singga",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25681.5,
+      "y": -320,
+      "childOrder": "1"
+    },
+    {
+      "id": "2nrahax83",
+      "name": "La Rongga",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25679.80512616358,
+      "y": -321.69492038865724,
+      "childOrder": "2"
+    },
+    {
+      "id": "xu3o9dg6o",
+      "name": "Pasangan Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25891.5,
+      "y": -320
+    },
+    {
+      "id": "r5ysc6pks",
+      "name": "Anak Baru",
+      "gender": "other",
+      "birthDate": "",
+      "x": 25681.5,
+      "y": -160
+    },
+    {
+      "id": "28hw9ey1u",
+      "name": "Pasangan Baru",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25889.80512616358,
+      "y": -320
+    },
+    {
+      "id": "43n9rl72p",
+      "name": "Saengu",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25683.19487383642,
+      "y": -158.30503305910597,
+      "childOrder": "1"
+    },
+    {
+      "id": "9qzpneck2",
+      "name": "La Wungo",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25683.19487383642,
+      "y": -160,
+      "childOrder": "2"
+    },
+    {
+      "id": "ytt6b3mtz",
+      "name": "La Fiini",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25681.5,
+      "y": -160,
+      "childOrder": "3"
+    },
+    {
+      "id": "eserwln63",
+      "name": "Wa Lego",
+      "gender": "female",
+      "birthDate": "",
+      "x": 25893.19487383642,
+      "y": -158.30503305910597
+    },
+    {
+      "id": "8v4gqhofx",
+      "name": "La Suba",
+      "gender": "male",
+      "birthDate": "",
+      "x": 25681.5,
+      "y": 1.6949669408940338
     }
   ],
   "relationships": [
@@ -7809,24 +8884,6 @@
       "type": "parent"
     },
     {
-      "id": "5kyffwanj",
-      "sourceId": "4opl6kr0t",
-      "targetId": "m5lbh8qn5",
-      "type": "spouse"
-    },
-    {
-      "id": "dp8jclpwb",
-      "sourceId": "4opl6kr0t",
-      "targetId": "s18x5enc8",
-      "type": "parent"
-    },
-    {
-      "id": "3c2zlboi7",
-      "sourceId": "m5lbh8qn5",
-      "targetId": "s18x5enc8",
-      "type": "parent"
-    },
-    {
       "id": "vg4f2ly6w",
       "sourceId": "v3tpm4qht",
       "targetId": "gwacbcsb9",
@@ -9429,6 +10486,1364 @@
       "id": "4aaem755n",
       "sourceId": "k5l2z5czb",
       "targetId": "799g8zcu8",
+      "type": "parent"
+    },
+    {
+      "id": "wxgqj5lgq",
+      "sourceId": "kfnz9irmh",
+      "targetId": "k0aw7o4b3",
+      "type": "spouse"
+    },
+    {
+      "id": "r11mt0w3u",
+      "sourceId": "kfnz9irmh",
+      "targetId": "3qyd09wbk",
+      "type": "parent"
+    },
+    {
+      "id": "ldn15hzhf",
+      "sourceId": "k0aw7o4b3",
+      "targetId": "3qyd09wbk",
+      "type": "parent"
+    },
+    {
+      "id": "sh9huab01",
+      "sourceId": "kfnz9irmh",
+      "targetId": "nskvggj89",
+      "type": "parent"
+    },
+    {
+      "id": "7uyv46t9l",
+      "sourceId": "k0aw7o4b3",
+      "targetId": "nskvggj89",
+      "type": "parent"
+    },
+    {
+      "id": "hh3dpcl72",
+      "sourceId": "kfnz9irmh",
+      "targetId": "4m6tx6fp5",
+      "type": "parent"
+    },
+    {
+      "id": "au21jf2ws",
+      "sourceId": "k0aw7o4b3",
+      "targetId": "4m6tx6fp5",
+      "type": "parent"
+    },
+    {
+      "id": "42nv0ftr5",
+      "sourceId": "kfnz9irmh",
+      "targetId": "ibsk9mz0b",
+      "type": "parent"
+    },
+    {
+      "id": "1igrvkeeh",
+      "sourceId": "k0aw7o4b3",
+      "targetId": "ibsk9mz0b",
+      "type": "parent"
+    },
+    {
+      "id": "3xnya37ae",
+      "sourceId": "kfnz9irmh",
+      "targetId": "3yddo40zi",
+      "type": "parent"
+    },
+    {
+      "id": "e9ipybzp9",
+      "sourceId": "k0aw7o4b3",
+      "targetId": "3yddo40zi",
+      "type": "parent"
+    },
+    {
+      "id": "agqzv3ft6",
+      "sourceId": "kfnz9irmh",
+      "targetId": "u4qpw8ow7",
+      "type": "parent"
+    },
+    {
+      "id": "55xp5hpli",
+      "sourceId": "k0aw7o4b3",
+      "targetId": "u4qpw8ow7",
+      "type": "parent"
+    },
+    {
+      "id": "ldxytpq78",
+      "sourceId": "3qyd09wbk",
+      "targetId": "wr9qwarsm",
+      "type": "spouse"
+    },
+    {
+      "id": "kspjd9no5",
+      "sourceId": "3qyd09wbk",
+      "targetId": "7difu3efn",
+      "type": "parent"
+    },
+    {
+      "id": "h75x5gabr",
+      "sourceId": "wr9qwarsm",
+      "targetId": "7difu3efn",
+      "type": "parent"
+    },
+    {
+      "id": "aybxehscr",
+      "sourceId": "3qyd09wbk",
+      "targetId": "sxnp1ausd",
+      "type": "parent"
+    },
+    {
+      "id": "awgnu1jyf",
+      "sourceId": "wr9qwarsm",
+      "targetId": "sxnp1ausd",
+      "type": "parent"
+    },
+    {
+      "id": "9y7r7ss7a",
+      "sourceId": "3qyd09wbk",
+      "targetId": "ldf7m8n3z",
+      "type": "parent"
+    },
+    {
+      "id": "gdnxfushs",
+      "sourceId": "wr9qwarsm",
+      "targetId": "ldf7m8n3z",
+      "type": "parent"
+    },
+    {
+      "id": "bposk2pil",
+      "sourceId": "3qyd09wbk",
+      "targetId": "u778nk8ee",
+      "type": "parent"
+    },
+    {
+      "id": "20tlpglc2",
+      "sourceId": "wr9qwarsm",
+      "targetId": "u778nk8ee",
+      "type": "parent"
+    },
+    {
+      "id": "ofpxjiujz",
+      "sourceId": "3qyd09wbk",
+      "targetId": "dyofmwl50",
+      "type": "parent"
+    },
+    {
+      "id": "1cdzykepv",
+      "sourceId": "wr9qwarsm",
+      "targetId": "dyofmwl50",
+      "type": "parent"
+    },
+    {
+      "id": "iepq5thlu",
+      "sourceId": "u778nk8ee",
+      "targetId": "g687sx7p6",
+      "type": "spouse"
+    },
+    {
+      "id": "7tkbxtwv6",
+      "sourceId": "u778nk8ee",
+      "targetId": "pdh565dhn",
+      "type": "parent"
+    },
+    {
+      "id": "v4lx3td2q",
+      "sourceId": "g687sx7p6",
+      "targetId": "pdh565dhn",
+      "type": "parent"
+    },
+    {
+      "id": "6i1tk6kfg",
+      "sourceId": "u778nk8ee",
+      "targetId": "u1lft7f91",
+      "type": "parent"
+    },
+    {
+      "id": "3i885x3q3",
+      "sourceId": "g687sx7p6",
+      "targetId": "u1lft7f91",
+      "type": "parent"
+    },
+    {
+      "id": "by8wavzoi",
+      "sourceId": "u778nk8ee",
+      "targetId": "gxwdssmni",
+      "type": "parent"
+    },
+    {
+      "id": "n7jvfkjsq",
+      "sourceId": "g687sx7p6",
+      "targetId": "gxwdssmni",
+      "type": "parent"
+    },
+    {
+      "id": "ncq1im0sv",
+      "sourceId": "dyofmwl50",
+      "targetId": "4opl6kr0t",
+      "type": "spouse",
+      "relationshipStatus": "married"
+    },
+    {
+      "id": "nh0194hu6",
+      "sourceId": "dyofmwl50",
+      "targetId": "s18x5enc8",
+      "type": "parent"
+    },
+    {
+      "id": "brs2jcutb",
+      "sourceId": "4opl6kr0t",
+      "targetId": "s18x5enc8",
+      "type": "parent"
+    },
+    {
+      "id": "1l395aszc",
+      "sourceId": "ldf7m8n3z",
+      "targetId": "5sm4taeaj",
+      "type": "spouse"
+    },
+    {
+      "id": "l7z99scdt",
+      "sourceId": "ldf7m8n3z",
+      "targetId": "l148vacun",
+      "type": "parent"
+    },
+    {
+      "id": "onyne7c3m",
+      "sourceId": "5sm4taeaj",
+      "targetId": "l148vacun",
+      "type": "parent"
+    },
+    {
+      "id": "54lx9q8wo",
+      "sourceId": "nskvggj89",
+      "targetId": "xsl5nqcmn",
+      "type": "spouse"
+    },
+    {
+      "id": "gkphkuj5e",
+      "sourceId": "nskvggj89",
+      "targetId": "xm2whpyc8",
+      "type": "parent"
+    },
+    {
+      "id": "2nn191vtf",
+      "sourceId": "xsl5nqcmn",
+      "targetId": "xm2whpyc8",
+      "type": "parent"
+    },
+    {
+      "id": "sh29scocx",
+      "sourceId": "nskvggj89",
+      "targetId": "y7m3y042z",
+      "type": "parent"
+    },
+    {
+      "id": "0g79qpy16",
+      "sourceId": "xsl5nqcmn",
+      "targetId": "y7m3y042z",
+      "type": "parent"
+    },
+    {
+      "id": "qyur9ju4e",
+      "sourceId": "nskvggj89",
+      "targetId": "j44rlknys",
+      "type": "parent"
+    },
+    {
+      "id": "rancgcwmo",
+      "sourceId": "xsl5nqcmn",
+      "targetId": "j44rlknys",
+      "type": "parent"
+    },
+    {
+      "id": "4sj0kg7cm",
+      "sourceId": "4m6tx6fp5",
+      "targetId": "di0z8vyad",
+      "type": "spouse"
+    },
+    {
+      "id": "yjgdei6sc",
+      "sourceId": "4m6tx6fp5",
+      "targetId": "3js8d5kkl",
+      "type": "parent"
+    },
+    {
+      "id": "tvsjpuf1i",
+      "sourceId": "di0z8vyad",
+      "targetId": "3js8d5kkl",
+      "type": "parent"
+    },
+    {
+      "id": "ll9sthd0w",
+      "sourceId": "3js8d5kkl",
+      "targetId": "bky5b0dqz",
+      "type": "spouse"
+    },
+    {
+      "id": "dk0dxm8rf",
+      "sourceId": "3js8d5kkl",
+      "targetId": "y8nj0qrsc",
+      "type": "parent"
+    },
+    {
+      "id": "qelycb9yk",
+      "sourceId": "bky5b0dqz",
+      "targetId": "y8nj0qrsc",
+      "type": "parent"
+    },
+    {
+      "id": "cosc9w5rg",
+      "sourceId": "ibsk9mz0b",
+      "targetId": "huvxxgmko",
+      "type": "spouse"
+    },
+    {
+      "id": "iyre4rkr8",
+      "sourceId": "ibsk9mz0b",
+      "targetId": "8nooj2f8h",
+      "type": "parent"
+    },
+    {
+      "id": "758p76lc2",
+      "sourceId": "huvxxgmko",
+      "targetId": "8nooj2f8h",
+      "type": "parent"
+    },
+    {
+      "id": "tixx9eq0f",
+      "sourceId": "ibsk9mz0b",
+      "targetId": "dmkza3ub1",
+      "type": "parent"
+    },
+    {
+      "id": "r9qwd21f7",
+      "sourceId": "huvxxgmko",
+      "targetId": "dmkza3ub1",
+      "type": "parent"
+    },
+    {
+      "id": "iffgwr1a9",
+      "sourceId": "ibsk9mz0b",
+      "targetId": "zctq4f127",
+      "type": "parent"
+    },
+    {
+      "id": "btrrspw3r",
+      "sourceId": "huvxxgmko",
+      "targetId": "zctq4f127",
+      "type": "parent"
+    },
+    {
+      "id": "1hoc9qoqa",
+      "sourceId": "ibsk9mz0b",
+      "targetId": "fto7mqz4u",
+      "type": "parent"
+    },
+    {
+      "id": "z3543f7g8",
+      "sourceId": "huvxxgmko",
+      "targetId": "fto7mqz4u",
+      "type": "parent"
+    },
+    {
+      "id": "obpzqzd91",
+      "sourceId": "3yddo40zi",
+      "targetId": "k1gkevnkn",
+      "type": "spouse"
+    },
+    {
+      "id": "me90mfum6",
+      "sourceId": "3yddo40zi",
+      "targetId": "lx55g6pm3",
+      "type": "parent"
+    },
+    {
+      "id": "ggd5kqzkw",
+      "sourceId": "k1gkevnkn",
+      "targetId": "lx55g6pm3",
+      "type": "parent"
+    },
+    {
+      "id": "32d3exqn9",
+      "sourceId": "3yddo40zi",
+      "targetId": "33gih1ww1",
+      "type": "parent"
+    },
+    {
+      "id": "oz05cg1tb",
+      "sourceId": "k1gkevnkn",
+      "targetId": "33gih1ww1",
+      "type": "parent"
+    },
+    {
+      "id": "jnqf832zh",
+      "sourceId": "3yddo40zi",
+      "targetId": "lhxg9sks3",
+      "type": "parent"
+    },
+    {
+      "id": "km7m6po0l",
+      "sourceId": "k1gkevnkn",
+      "targetId": "lhxg9sks3",
+      "type": "parent"
+    },
+    {
+      "id": "do2zdwsiv",
+      "sourceId": "3yddo40zi",
+      "targetId": "gcugvg9po",
+      "type": "parent"
+    },
+    {
+      "id": "nldzksork",
+      "sourceId": "k1gkevnkn",
+      "targetId": "gcugvg9po",
+      "type": "parent"
+    },
+    {
+      "id": "cylxzy704",
+      "sourceId": "u4qpw8ow7",
+      "targetId": "owzdtmhkc",
+      "type": "spouse"
+    },
+    {
+      "id": "6235onvc9",
+      "sourceId": "u4qpw8ow7",
+      "targetId": "1k02whsmr",
+      "type": "parent"
+    },
+    {
+      "id": "6rjaawe58",
+      "sourceId": "owzdtmhkc",
+      "targetId": "1k02whsmr",
+      "type": "parent"
+    },
+    {
+      "id": "9n4heruwu",
+      "sourceId": "u4qpw8ow7",
+      "targetId": "hy9zl43sd",
+      "type": "parent"
+    },
+    {
+      "id": "hz5rbgkoc",
+      "sourceId": "owzdtmhkc",
+      "targetId": "hy9zl43sd",
+      "type": "parent"
+    },
+    {
+      "id": "9eledy0io",
+      "sourceId": "u4qpw8ow7",
+      "targetId": "15djirbpo",
+      "type": "parent"
+    },
+    {
+      "id": "l7rdggiio",
+      "sourceId": "owzdtmhkc",
+      "targetId": "15djirbpo",
+      "type": "parent"
+    },
+    {
+      "id": "781suzp9w",
+      "sourceId": "brql1i07w",
+      "targetId": "5w2kyh9na",
+      "type": "spouse"
+    },
+    {
+      "id": "igfqyjrem",
+      "sourceId": "brql1i07w",
+      "targetId": "jcrc0j3gx",
+      "type": "parent"
+    },
+    {
+      "id": "kg9sdpc7j",
+      "sourceId": "5w2kyh9na",
+      "targetId": "jcrc0j3gx",
+      "type": "parent"
+    },
+    {
+      "id": "guoj4f1q1",
+      "sourceId": "brql1i07w",
+      "targetId": "dbba4zzgz",
+      "type": "parent"
+    },
+    {
+      "id": "vq8931ozu",
+      "sourceId": "5w2kyh9na",
+      "targetId": "dbba4zzgz",
+      "type": "parent"
+    },
+    {
+      "id": "kyyhtbm0y",
+      "sourceId": "brql1i07w",
+      "targetId": "86z7gqerm",
+      "type": "parent"
+    },
+    {
+      "id": "1esx3hrhn",
+      "sourceId": "5w2kyh9na",
+      "targetId": "86z7gqerm",
+      "type": "parent"
+    },
+    {
+      "id": "lwd901jpq",
+      "sourceId": "brql1i07w",
+      "targetId": "8uqb4h3c4",
+      "type": "parent"
+    },
+    {
+      "id": "bts75drwp",
+      "sourceId": "5w2kyh9na",
+      "targetId": "8uqb4h3c4",
+      "type": "parent"
+    },
+    {
+      "id": "uihcjphfa",
+      "sourceId": "x2sczot23",
+      "targetId": "j2sjszraf",
+      "type": "spouse"
+    },
+    {
+      "id": "y8w32u9ju",
+      "sourceId": "x2sczot23",
+      "targetId": "cypooqn0l",
+      "type": "parent"
+    },
+    {
+      "id": "321t251s0",
+      "sourceId": "j2sjszraf",
+      "targetId": "cypooqn0l",
+      "type": "parent"
+    },
+    {
+      "id": "qy2kh7vjc",
+      "sourceId": "x2sczot23",
+      "targetId": "g1xbph0qh",
+      "type": "parent"
+    },
+    {
+      "id": "djqi4gtz8",
+      "sourceId": "j2sjszraf",
+      "targetId": "g1xbph0qh",
+      "type": "parent"
+    },
+    {
+      "id": "4mm47c3ji",
+      "sourceId": "x2sczot23",
+      "targetId": "7j4ksptf0",
+      "type": "parent"
+    },
+    {
+      "id": "qlaefmndt",
+      "sourceId": "j2sjszraf",
+      "targetId": "7j4ksptf0",
+      "type": "parent"
+    },
+    {
+      "id": "p192q1wx3",
+      "sourceId": "x2sczot23",
+      "targetId": "vl9ntvw06",
+      "type": "parent"
+    },
+    {
+      "id": "iq9trhg09",
+      "sourceId": "j2sjszraf",
+      "targetId": "vl9ntvw06",
+      "type": "parent"
+    },
+    {
+      "id": "50cftlxqw",
+      "sourceId": "x2sczot23",
+      "targetId": "ouvl1j57c",
+      "type": "parent"
+    },
+    {
+      "id": "a4y9fpfm5",
+      "sourceId": "j2sjszraf",
+      "targetId": "ouvl1j57c",
+      "type": "parent"
+    },
+    {
+      "id": "x6xx1okns",
+      "sourceId": "x2sczot23",
+      "targetId": "ucpxsmxv4",
+      "type": "parent"
+    },
+    {
+      "id": "ohj4fcmpy",
+      "sourceId": "j2sjszraf",
+      "targetId": "ucpxsmxv4",
+      "type": "parent"
+    },
+    {
+      "id": "vks1a6hli",
+      "sourceId": "ucpxsmxv4",
+      "targetId": "a3yn72f43",
+      "type": "spouse"
+    },
+    {
+      "id": "6i1xk0izh",
+      "sourceId": "ucpxsmxv4",
+      "targetId": "1smbrmj52",
+      "type": "parent"
+    },
+    {
+      "id": "8nh6woz09",
+      "sourceId": "a3yn72f43",
+      "targetId": "1smbrmj52",
+      "type": "parent"
+    },
+    {
+      "id": "zq3rszk3h",
+      "sourceId": "f5as04fk6",
+      "targetId": "tvo5nktsb",
+      "type": "spouse",
+      "anchorPersonId": "tvo5nktsb"
+    },
+    {
+      "id": "mi5irvth2",
+      "sourceId": "f5as04fk6",
+      "targetId": "yzk25ml6g",
+      "type": "parent"
+    },
+    {
+      "id": "f23dl9j5q",
+      "sourceId": "tvo5nktsb",
+      "targetId": "yzk25ml6g",
+      "type": "parent"
+    },
+    {
+      "id": "b49h92wgw",
+      "sourceId": "f5as04fk6",
+      "targetId": "tvbbfhq01",
+      "type": "parent"
+    },
+    {
+      "id": "4jmk4hx61",
+      "sourceId": "tvo5nktsb",
+      "targetId": "tvbbfhq01",
+      "type": "parent"
+    },
+    {
+      "id": "x8hk2srgf",
+      "sourceId": "f5as04fk6",
+      "targetId": "8kfziz1w0",
+      "type": "parent"
+    },
+    {
+      "id": "qo6ty7vum",
+      "sourceId": "tvo5nktsb",
+      "targetId": "8kfziz1w0",
+      "type": "parent"
+    },
+    {
+      "id": "0mybvy0yq",
+      "sourceId": "f5as04fk6",
+      "targetId": "qm3nz3kwp",
+      "type": "parent"
+    },
+    {
+      "id": "ac41q9dge",
+      "sourceId": "tvo5nktsb",
+      "targetId": "qm3nz3kwp",
+      "type": "parent"
+    },
+    {
+      "id": "1q3uag5im",
+      "sourceId": "f5as04fk6",
+      "targetId": "sruftxh0z",
+      "type": "parent"
+    },
+    {
+      "id": "85utrdfx6",
+      "sourceId": "tvo5nktsb",
+      "targetId": "sruftxh0z",
+      "type": "parent"
+    },
+    {
+      "id": "rscb0a0mb",
+      "sourceId": "f5as04fk6",
+      "targetId": "clwoxabru",
+      "type": "parent"
+    },
+    {
+      "id": "hodzer4yi",
+      "sourceId": "tvo5nktsb",
+      "targetId": "clwoxabru",
+      "type": "parent"
+    },
+    {
+      "id": "fuyouke6v",
+      "sourceId": "f5as04fk6",
+      "targetId": "k1gkevnkn",
+      "type": "parent"
+    },
+    {
+      "id": "gbahraohz",
+      "sourceId": "tvo5nktsb",
+      "targetId": "k1gkevnkn",
+      "type": "parent"
+    },
+    {
+      "id": "u8mdgq43j",
+      "sourceId": "tvbbfhq01",
+      "targetId": "qwuu94aym",
+      "type": "spouse"
+    },
+    {
+      "id": "dv47q4vn5",
+      "sourceId": "tvbbfhq01",
+      "targetId": "xlmpjb1zb",
+      "type": "parent"
+    },
+    {
+      "id": "9pi2x78h7",
+      "sourceId": "qwuu94aym",
+      "targetId": "xlmpjb1zb",
+      "type": "parent"
+    },
+    {
+      "id": "qq0yw8szv",
+      "sourceId": "tvbbfhq01",
+      "targetId": "n6j3lo96h",
+      "type": "parent"
+    },
+    {
+      "id": "m062msc2d",
+      "sourceId": "qwuu94aym",
+      "targetId": "n6j3lo96h",
+      "type": "parent"
+    },
+    {
+      "id": "0678sdfng",
+      "sourceId": "tvbbfhq01",
+      "targetId": "9jznov0yx",
+      "type": "parent"
+    },
+    {
+      "id": "5hqqkw649",
+      "sourceId": "qwuu94aym",
+      "targetId": "9jznov0yx",
+      "type": "parent"
+    },
+    {
+      "id": "b7itrde45",
+      "sourceId": "tvbbfhq01",
+      "targetId": "xtse8t0qz",
+      "type": "parent"
+    },
+    {
+      "id": "1nx2di1y5",
+      "sourceId": "qwuu94aym",
+      "targetId": "xtse8t0qz",
+      "type": "parent"
+    },
+    {
+      "id": "olkhiz2rs",
+      "sourceId": "tvbbfhq01",
+      "targetId": "xkmp2xfu2",
+      "type": "parent"
+    },
+    {
+      "id": "usi5k2z3d",
+      "sourceId": "qwuu94aym",
+      "targetId": "xkmp2xfu2",
+      "type": "parent"
+    },
+    {
+      "id": "pto5s0itf",
+      "sourceId": "tvbbfhq01",
+      "targetId": "tvg4udzb0",
+      "type": "parent"
+    },
+    {
+      "id": "zxsq8udir",
+      "sourceId": "qwuu94aym",
+      "targetId": "tvg4udzb0",
+      "type": "parent"
+    },
+    {
+      "id": "c16j83z2m",
+      "sourceId": "tvbbfhq01",
+      "targetId": "i3l5lkevr",
+      "type": "parent"
+    },
+    {
+      "id": "bi7wke5os",
+      "sourceId": "qwuu94aym",
+      "targetId": "i3l5lkevr",
+      "type": "parent"
+    },
+    {
+      "id": "5tw183k0t",
+      "sourceId": "9jznov0yx",
+      "targetId": "tdatylnwv",
+      "type": "spouse"
+    },
+    {
+      "id": "n7dk94wtf",
+      "sourceId": "9jznov0yx",
+      "targetId": "ru0xujrb0",
+      "type": "parent"
+    },
+    {
+      "id": "19dkm3dhh",
+      "sourceId": "tdatylnwv",
+      "targetId": "ru0xujrb0",
+      "type": "parent"
+    },
+    {
+      "id": "qkleqw66o",
+      "sourceId": "9jznov0yx",
+      "targetId": "y27vonenr",
+      "type": "parent"
+    },
+    {
+      "id": "aa2c1a997",
+      "sourceId": "tdatylnwv",
+      "targetId": "y27vonenr",
+      "type": "parent"
+    },
+    {
+      "id": "4tj9zzkie",
+      "sourceId": "9jznov0yx",
+      "targetId": "urvfh377n",
+      "type": "parent"
+    },
+    {
+      "id": "jzsnq4pvi",
+      "sourceId": "tdatylnwv",
+      "targetId": "urvfh377n",
+      "type": "parent"
+    },
+    {
+      "id": "z88ookxvv",
+      "sourceId": "9jznov0yx",
+      "targetId": "y7ynw0ns9",
+      "type": "parent"
+    },
+    {
+      "id": "y9sugtbus",
+      "sourceId": "tdatylnwv",
+      "targetId": "y7ynw0ns9",
+      "type": "parent"
+    },
+    {
+      "id": "25tg75hrb",
+      "sourceId": "sruftxh0z",
+      "targetId": "w89ifz82n",
+      "type": "spouse"
+    },
+    {
+      "id": "ykcaq9sy5",
+      "sourceId": "sruftxh0z",
+      "targetId": "l0fi5jtcg",
+      "type": "parent"
+    },
+    {
+      "id": "shq6pe82b",
+      "sourceId": "w89ifz82n",
+      "targetId": "l0fi5jtcg",
+      "type": "parent"
+    },
+    {
+      "id": "3uwlgompr",
+      "sourceId": "sruftxh0z",
+      "targetId": "nym590t69",
+      "type": "parent"
+    },
+    {
+      "id": "7y3ugsf43",
+      "sourceId": "w89ifz82n",
+      "targetId": "nym590t69",
+      "type": "parent"
+    },
+    {
+      "id": "m5ail3zn2",
+      "sourceId": "sruftxh0z",
+      "targetId": "wgfyzxs3m",
+      "type": "parent"
+    },
+    {
+      "id": "esf15qve9",
+      "sourceId": "w89ifz82n",
+      "targetId": "wgfyzxs3m",
+      "type": "parent"
+    },
+    {
+      "id": "q8hzbdgmw",
+      "sourceId": "sruftxh0z",
+      "targetId": "bjgb66p9n",
+      "type": "parent"
+    },
+    {
+      "id": "q05fmiguf",
+      "sourceId": "w89ifz82n",
+      "targetId": "bjgb66p9n",
+      "type": "parent"
+    },
+    {
+      "id": "ztmndikuc",
+      "sourceId": "f5as04fk6",
+      "targetId": "wn8hal963",
+      "type": "spouse",
+      "relationshipStatus": "married",
+      "anchorPersonId": "wn8hal963"
+    },
+    {
+      "id": "pjpa1h2cp",
+      "sourceId": "wn8hal963",
+      "targetId": "hmplk2lwe",
+      "type": "parent"
+    },
+    {
+      "id": "n47sehxli",
+      "sourceId": "f5as04fk6",
+      "targetId": "hmplk2lwe",
+      "type": "parent"
+    },
+    {
+      "id": "s5p2ij3tj",
+      "sourceId": "wn8hal963",
+      "targetId": "r41rp61ra",
+      "type": "parent"
+    },
+    {
+      "id": "e809xhbzp",
+      "sourceId": "f5as04fk6",
+      "targetId": "r41rp61ra",
+      "type": "parent"
+    },
+    {
+      "id": "5xfc4obxl",
+      "sourceId": "hmplk2lwe",
+      "targetId": "wpanjfrf6",
+      "type": "spouse"
+    },
+    {
+      "id": "7hauuzpzu",
+      "sourceId": "hmplk2lwe",
+      "targetId": "g0gux2zca",
+      "type": "parent"
+    },
+    {
+      "id": "h6jns77g9",
+      "sourceId": "wpanjfrf6",
+      "targetId": "g0gux2zca",
+      "type": "parent"
+    },
+    {
+      "id": "o1g6gs64p",
+      "sourceId": "f5as04fk6",
+      "targetId": "7slwl9tqt",
+      "type": "spouse",
+      "relationshipStatus": "married"
+    },
+    {
+      "id": "z7d8az784",
+      "sourceId": "7slwl9tqt",
+      "targetId": "hc3zoqdll",
+      "type": "parent"
+    },
+    {
+      "id": "1g6skg29v",
+      "sourceId": "f5as04fk6",
+      "targetId": "hc3zoqdll",
+      "type": "parent"
+    },
+    {
+      "id": "bvfdyc8a5",
+      "sourceId": "f5as04fk6",
+      "targetId": "175qhbw3l",
+      "type": "spouse",
+      "relationshipStatus": "married",
+      "anchorPersonId": "175qhbw3l"
+    },
+    {
+      "id": "z4kv138iv",
+      "sourceId": "175qhbw3l",
+      "targetId": "9h30kejou",
+      "type": "parent"
+    },
+    {
+      "id": "3ordrxiei",
+      "sourceId": "f5as04fk6",
+      "targetId": "9h30kejou",
+      "type": "parent"
+    },
+    {
+      "id": "ah48bwcss",
+      "sourceId": "175qhbw3l",
+      "targetId": "kzfkc9yg4",
+      "type": "parent"
+    },
+    {
+      "id": "q0y7z5y36",
+      "sourceId": "f5as04fk6",
+      "targetId": "kzfkc9yg4",
+      "type": "parent"
+    },
+    {
+      "id": "l64w3xbpv",
+      "sourceId": "175qhbw3l",
+      "targetId": "fedv5v27d",
+      "type": "parent"
+    },
+    {
+      "id": "6phisihoj",
+      "sourceId": "f5as04fk6",
+      "targetId": "fedv5v27d",
+      "type": "parent"
+    },
+    {
+      "id": "4wtzq2uou",
+      "sourceId": "175qhbw3l",
+      "targetId": "gzmuf3awr",
+      "type": "parent"
+    },
+    {
+      "id": "rjtveufwn",
+      "sourceId": "f5as04fk6",
+      "targetId": "gzmuf3awr",
+      "type": "parent"
+    },
+    {
+      "id": "hxdh16sgd",
+      "sourceId": "kzfkc9yg4",
+      "targetId": "q4dfp0mlu",
+      "type": "spouse"
+    },
+    {
+      "id": "88e1jsmej",
+      "sourceId": "kzfkc9yg4",
+      "targetId": "utq9kstve",
+      "type": "parent"
+    },
+    {
+      "id": "do71hdnl1",
+      "sourceId": "q4dfp0mlu",
+      "targetId": "utq9kstve",
+      "type": "parent"
+    },
+    {
+      "id": "qpsbjc52x",
+      "sourceId": "new_person_palidhu",
+      "targetId": "p5ck54a4c",
+      "type": "spouse",
+      "relationshipStatus": "married"
+    },
+    {
+      "id": "803flei09",
+      "sourceId": "p5ck54a4c",
+      "targetId": "mrkm2ksqy",
+      "type": "parent"
+    },
+    {
+      "id": "lucm1czc9",
+      "sourceId": "new_person_palidhu",
+      "targetId": "mrkm2ksqy",
+      "type": "parent"
+    },
+    {
+      "id": "8ksodlucm",
+      "sourceId": "p5ck54a4c",
+      "targetId": "u1j8tqy2o",
+      "type": "parent"
+    },
+    {
+      "id": "eyliv01qy",
+      "sourceId": "new_person_palidhu",
+      "targetId": "u1j8tqy2o",
+      "type": "parent"
+    },
+    {
+      "id": "vhpzjuh5z",
+      "sourceId": "p5ck54a4c",
+      "targetId": "1qlww0wcp",
+      "type": "parent"
+    },
+    {
+      "id": "bv5bh1kil",
+      "sourceId": "new_person_palidhu",
+      "targetId": "1qlww0wcp",
+      "type": "parent"
+    },
+    {
+      "id": "re3bvtpip",
+      "sourceId": "u1j8tqy2o",
+      "targetId": "32q01fkb7",
+      "type": "spouse"
+    },
+    {
+      "id": "l92lwrt38",
+      "sourceId": "u1j8tqy2o",
+      "targetId": "musz211kb",
+      "type": "parent"
+    },
+    {
+      "id": "n3cozyvrf",
+      "sourceId": "32q01fkb7",
+      "targetId": "musz211kb",
+      "type": "parent"
+    },
+    {
+      "id": "x7bzka07s",
+      "sourceId": "32q01fkb7",
+      "targetId": "dv002w0qj",
+      "type": "parent"
+    },
+    {
+      "id": "8rbrk8mw6",
+      "sourceId": "u1j8tqy2o",
+      "targetId": "dv002w0qj",
+      "type": "parent"
+    },
+    {
+      "id": "b5tq7vthu",
+      "sourceId": "32q01fkb7",
+      "targetId": "4wgho6ta3",
+      "type": "parent"
+    },
+    {
+      "id": "8jlx7847g",
+      "sourceId": "u1j8tqy2o",
+      "targetId": "4wgho6ta3",
+      "type": "parent"
+    },
+    {
+      "id": "zd9d8y51m",
+      "sourceId": "32q01fkb7",
+      "targetId": "k0v8l6uyi",
+      "type": "parent"
+    },
+    {
+      "id": "faa8l4u3y",
+      "sourceId": "u1j8tqy2o",
+      "targetId": "k0v8l6uyi",
+      "type": "parent"
+    },
+    {
+      "id": "fqe58gf5t",
+      "sourceId": "32q01fkb7",
+      "targetId": "9zuaz1x5g",
+      "type": "parent"
+    },
+    {
+      "id": "qmvwyrnrl",
+      "sourceId": "u1j8tqy2o",
+      "targetId": "9zuaz1x5g",
+      "type": "parent"
+    },
+    {
+      "id": "t2an2ex0s",
+      "sourceId": "32q01fkb7",
+      "targetId": "34aha6y2p",
+      "type": "parent"
+    },
+    {
+      "id": "501vo5yv6",
+      "sourceId": "u1j8tqy2o",
+      "targetId": "34aha6y2p",
+      "type": "parent"
+    },
+    {
+      "id": "qdle9rhf9",
+      "sourceId": "32q01fkb7",
+      "targetId": "0ds9gh64p",
+      "type": "parent"
+    },
+    {
+      "id": "hhg4f6y44",
+      "sourceId": "u1j8tqy2o",
+      "targetId": "0ds9gh64p",
+      "type": "parent"
+    },
+    {
+      "id": "iaso6kghb",
+      "sourceId": "1qlww0wcp",
+      "targetId": "ajjnzpwjl",
+      "type": "spouse"
+    },
+    {
+      "id": "w7t7swotc",
+      "sourceId": "1qlww0wcp",
+      "targetId": "scgnmpa60",
+      "type": "parent"
+    },
+    {
+      "id": "s4lz4pr67",
+      "sourceId": "ajjnzpwjl",
+      "targetId": "scgnmpa60",
+      "type": "parent"
+    },
+    {
+      "id": "culmbtko6",
+      "sourceId": "1qlww0wcp",
+      "targetId": "pdj7kocgm",
+      "type": "parent"
+    },
+    {
+      "id": "hgql40kqv",
+      "sourceId": "ajjnzpwjl",
+      "targetId": "pdj7kocgm",
+      "type": "parent"
+    },
+    {
+      "id": "n6thzzqts",
+      "sourceId": "1qlww0wcp",
+      "targetId": "pd2gx1tii",
+      "type": "parent"
+    },
+    {
+      "id": "ttsts56b4",
+      "sourceId": "ajjnzpwjl",
+      "targetId": "pd2gx1tii",
+      "type": "parent"
+    },
+    {
+      "id": "88naw62rn",
+      "sourceId": "mrkm2ksqy",
+      "targetId": "4nvirzbur",
+      "type": "spouse"
+    },
+    {
+      "id": "nj3wxjlgk",
+      "sourceId": "mrkm2ksqy",
+      "targetId": "a2fvgyf9l",
+      "type": "parent"
+    },
+    {
+      "id": "s64z2la94",
+      "sourceId": "4nvirzbur",
+      "targetId": "a2fvgyf9l",
+      "type": "parent"
+    },
+    {
+      "id": "uypv1d07w",
+      "sourceId": "mrkm2ksqy",
+      "targetId": "95bkr4giz",
+      "type": "parent"
+    },
+    {
+      "id": "phwbrcs26",
+      "sourceId": "4nvirzbur",
+      "targetId": "95bkr4giz",
+      "type": "parent"
+    },
+    {
+      "id": "n92f0eky5",
+      "sourceId": "mrkm2ksqy",
+      "targetId": "72645qkb1",
+      "type": "parent"
+    },
+    {
+      "id": "b26kuw5bl",
+      "sourceId": "4nvirzbur",
+      "targetId": "72645qkb1",
+      "type": "parent"
+    },
+    {
+      "id": "wy1j6je5r",
+      "sourceId": "v1u6121k3",
+      "targetId": "nd5aw4zxd",
+      "type": "spouse"
+    },
+    {
+      "id": "guhxr99ak",
+      "sourceId": "v1u6121k3",
+      "targetId": "a29g20jrj",
+      "type": "parent"
+    },
+    {
+      "id": "yojw4i4zf",
+      "sourceId": "nd5aw4zxd",
+      "targetId": "a29g20jrj",
+      "type": "parent"
+    },
+    {
+      "id": "iriqcxjj9",
+      "sourceId": "v1u6121k3",
+      "targetId": "2nrahax83",
+      "type": "parent"
+    },
+    {
+      "id": "fy0cn7sp8",
+      "sourceId": "nd5aw4zxd",
+      "targetId": "2nrahax83",
+      "type": "parent"
+    },
+    {
+      "id": "ibwxj3hr4",
+      "sourceId": "a29g20jrj",
+      "targetId": "xu3o9dg6o",
+      "type": "spouse"
+    },
+    {
+      "id": "702ax9ke7",
+      "sourceId": "a29g20jrj",
+      "targetId": "r5ysc6pks",
+      "type": "parent"
+    },
+    {
+      "id": "3lda6zyo1",
+      "sourceId": "xu3o9dg6o",
+      "targetId": "r5ysc6pks",
+      "type": "parent"
+    },
+    {
+      "id": "4r8rqzuqz",
+      "sourceId": "2nrahax83",
+      "targetId": "28hw9ey1u",
+      "type": "spouse"
+    },
+    {
+      "id": "ce1x78h2h",
+      "sourceId": "2nrahax83",
+      "targetId": "43n9rl72p",
+      "type": "parent"
+    },
+    {
+      "id": "n7bibnv5j",
+      "sourceId": "28hw9ey1u",
+      "targetId": "43n9rl72p",
+      "type": "parent"
+    },
+    {
+      "id": "qp7q24s42",
+      "sourceId": "2nrahax83",
+      "targetId": "9qzpneck2",
+      "type": "parent"
+    },
+    {
+      "id": "lps10vuoe",
+      "sourceId": "28hw9ey1u",
+      "targetId": "9qzpneck2",
+      "type": "parent"
+    },
+    {
+      "id": "fb7eixx7f",
+      "sourceId": "2nrahax83",
+      "targetId": "ytt6b3mtz",
+      "type": "parent"
+    },
+    {
+      "id": "zwgewxukk",
+      "sourceId": "28hw9ey1u",
+      "targetId": "ytt6b3mtz",
+      "type": "parent"
+    },
+    {
+      "id": "1jqejjixe",
+      "sourceId": "43n9rl72p",
+      "targetId": "eserwln63",
+      "type": "spouse"
+    },
+    {
+      "id": "4omekub5g",
+      "sourceId": "43n9rl72p",
+      "targetId": "8v4gqhofx",
+      "type": "parent"
+    },
+    {
+      "id": "n13gsqoik",
+      "sourceId": "eserwln63",
+      "targetId": "8v4gqhofx",
       "type": "parent"
     }
   ]
